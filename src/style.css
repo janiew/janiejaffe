@@ -55,11 +55,12 @@
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
   --color-primary: #005b99;
-  --color-text: #2e353f;
-  --color-text-light: #4f5969;
-  --color-heading: #1a202c;
-  --color-heading-black: black;
+  --color-text: white;
+  --color-text-light: white;
+  --color-heading: white;
+  --color-heading-black: white;
   --color-accent: #d1dce5;
+  --background-color: black;
 }
 
 /* HTML elements */
@@ -81,6 +82,7 @@ body {
   font-family: var(--font-body);
   font-size: var(--fontSize-1);
   color: var(--color-text);
+  background-color: var(--background-color);
 }
 
 footer {
@@ -259,6 +261,37 @@ a:focus {
   margin: 0;
 }
 
+.index-main {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.index-sub {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+}
+
+.header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-direction: row;
+}
+
+.header-row nav ul {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  gap: 4px;
+}
+
+.header-nav-link {
+  color: var(--color-text);
+  font-family: var(--font-heading);
+}
+
 .post-list-item {
   margin-bottom: var(--spacing-8);
   margin-top: var(--spacing-8);
@@ -277,6 +310,17 @@ a:focus {
 
 .post-list-item header {
   margin-bottom: var(--spacing-4);
+}
+
+.postlist {
+  border: 1px solid white;
+  width: max-content;
+  min-width: 150px;
+}
+
+.postlist-link {
+  display: flex;
+  flex-direction: column;
 }
 
 .header-link-home {

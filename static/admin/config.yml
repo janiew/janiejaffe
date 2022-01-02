@@ -1,6 +1,7 @@
 backend:
   name: github
   branch: main # Branch to update (optional; defaults to master)
+  repo: janiew/gatsby-test
 
 media_folder: static/img
 public_folder: /img
