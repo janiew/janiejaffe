@@ -37,7 +37,12 @@ const PostList = () => {
     <p>no posts found</p>
   )
 
-  return <div className="postlist">{postLinks}</div>
+  return (
+    <div className="postlist">
+      <h5>Posts</h5>
+      {postLinks}
+    </div>
+  )
 }
 
 export default PostList

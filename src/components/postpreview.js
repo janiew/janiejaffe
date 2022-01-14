@@ -1,5 +1,5 @@
 import * as React from "react"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 
 const PostPreview = () => {
   const data = useStaticQuery(graphql`
@@ -11,7 +11,7 @@ const PostPreview = () => {
         nodes {
           excerpt(pruneLength: 160)
           frontmatter {
-            date
+            date(formatString: "MM·DD·YY")
             description
             title
           }
@@ -42,7 +42,9 @@ const PostPreview = () => {
       itemType="http://schema.org/Article"
     >
       <header>
-        <h1 itemProp="headline">{post.frontmatter.title}</h1>
+        <Link to={post.fields.slug} itemProp="url">
+          <h1 itemProp="headline">{post.frontmatter.title}</h1>
+        </Link>
         <p>{post.frontmatter.date}</p>
       </header>
       <section

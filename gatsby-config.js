@@ -3,7 +3,7 @@ module.exports = {
     title: `Janie Jaffe`,
     author: {
       name: `Janie Jaffe`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `is a writer, designer, developer, and angel.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
@@ -16,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/blog`,
-        name: `blog`,
+        path: `${__dirname}/content/posts`,
+        name: `posts`,
       },
     },
     {
@@ -129,5 +129,12 @@ module.exports = {
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
     `gatsby-plugin-netlify-cms`,
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [`space mono`, `space grotesk`],
+        display: "swap",
+      },
+    },
   ],
 }
