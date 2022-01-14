@@ -1,8 +1,8 @@
 ---
 title: Hello World
 tags:
+  - tag
   - test
-  - ""
 date: 2015-05-01T22:12:03.284Z
 description: Hello World
 ---
