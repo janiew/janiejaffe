@@ -12,6 +12,7 @@ const PostList = () => {
           frontmatter {
             date(formatString: "MM·DD·YY")
             title
+            tags
           }
         }
       }
@@ -19,10 +20,12 @@ const PostList = () => {
   `)
 
   const posts = data.allMarkdownRemark.nodes
+  const tags = []
   const postLinks = posts.length ? (
     <ul>
       {posts.map(post => {
         const title = post.frontmatter.title || post.fields.slug
+        tags.concat(post.tags)
         return (
           <li key={post.fields.slug} className="postlist-link">
             <Link to={post.fields.slug} itemProp="url">
@@ -36,6 +39,10 @@ const PostList = () => {
   ) : (
     <p>no posts found</p>
   )
+
+  const tagset = new Set(tags)
+  console.log("tagset:")
+  console.log(tags)
 
   return (
     <div className="postlist">
