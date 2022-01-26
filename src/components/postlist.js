@@ -24,8 +24,11 @@ const PostList = () => {
   const postLinks = posts.length ? (
     <ul>
       {posts.map(post => {
+        console.log(post)
         const title = post.frontmatter.title || post.fields.slug
-        tags.concat(post.tags)
+        if (post.frontmatter.tags && post.frontmatter.tags.length) {
+          tags.push(...post.frontmatter.tags)
+        }
         return (
           <li key={post.fields.slug} className="postlist-link">
             <Link to={post.fields.slug} itemProp="url">
