@@ -6,7 +6,7 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import PostList from "../components/postlist"
 
-const BlogPosts = ({ data, location }) => {
+const TagPosts = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
 
@@ -61,16 +61,19 @@ const BlogPosts = ({ data, location }) => {
   )
 }
 
-export default BlogPosts
+export default TagPosts
 
 export const pageQuery = graphql`
-  query {
+  query PostListByTagSlug($tag: String!) {
     site {
       siteMetadata {
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      filter: { frontmatter: { tags: { eq: $tag } } }
+      sort: { fields: [frontmatter___date], order: DESC }
+    ) {
       nodes {
         excerpt
         fields {

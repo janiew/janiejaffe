@@ -44,11 +44,18 @@ const PostList = () => {
   )
 
   const tagset = new Set(tags)
-  console.log("tagset:")
-  console.log(tags)
+  const tagLinks = (
+    <div className="taglist">
+      {[...tagset].map(tag => (
+        <Link to={`/tags/${tag}/`}>{tag}</Link>
+      ))}
+    </div>
+  )
 
   return (
     <div className="postlist">
+      <h5>Tags</h5>
+      {tagLinks}
       <h5>Posts</h5>
       {postLinks}
     </div>
