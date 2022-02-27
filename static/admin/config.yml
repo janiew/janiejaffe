@@ -24,3 +24,20 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "games"
+    label: "Games"
+    label_singular: "game"
+    folder: "content/games"
+    create: true
+    slug: "index"
+    media_folder: ""
+    public_folder: ""
+    path: "{{title}}/index"
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Link", name: "link", widget: "string" }
+      - { label: "Image", name: "image", widget: "file" }
+      - { label: "Description", name: "description", widget: "markdown" }

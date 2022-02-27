@@ -13,7 +13,7 @@ const Layout = ({ location, title, children }) => {
   const header = (
     <>
       {isRootPath && <div className="index-header-img" />}
-      <div className="index-header">
+      <div className={isRootPath ? "index-header" : ""}>
         <div className={headerClassname}>
           <h1 className="main-heading">
             <Link to="/">{title}</Link>
@@ -21,21 +21,27 @@ const Layout = ({ location, title, children }) => {
           <nav>
             <ul>
               <li>
-                <Link className="header-nav-link">about</Link>
-              </li>
-              <li>·</li>
-              <li>
                 <Link to="/posts" className="header-nav-link">
-                  posts
+                  blog
                 </Link>
               </li>
               <li>·</li>
               <li>
-                <Link className="header-nav-link">games</Link>
+                <Link to="/games" className="header-nav-link">
+                  games
+                </Link>
               </li>
               <li>·</li>
               <li>
-                <Link className="header-nav-link">contact</Link>
+                <Link to="/video" className="header-nav-link">
+                  video art
+                </Link>
+              </li>
+              <li>·</li>
+              <li>
+                <Link to="/about" className="header-nav-link">
+                  about
+                </Link>
               </li>
             </ul>
           </nav>

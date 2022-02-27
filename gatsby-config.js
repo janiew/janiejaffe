@@ -3,7 +3,7 @@ module.exports = {
     title: `Janie Jaffe`,
     author: {
       name: `Janie Jaffe`,
-      summary: `is a writer, designer, developer, and angel.`,
+      summary: `is a multimedia artist, writer, developer, and angel. She makes video art/games/writing/music about the future/gender/embodiment/technology. She lives in New York with a well worn pack of playing cards and lately has been thinking a lot about collarbones.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
