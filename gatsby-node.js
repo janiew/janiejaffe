@@ -13,6 +13,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     `
       {
         allMarkdownRemark(
+          filter: { sourceInstanceName: { eq: "posts" } }
           sort: { fields: [frontmatter___date], order: ASC }
           limit: 1000
         ) {
@@ -126,11 +127,6 @@ exports.createSchemaCustomization = ({ actions }) => {
       fields: Fields
     }
 
-    enum NodeType {
-      POST
-      GAME
-    }
-
     type Frontmatter {
       title: String
       description: String
@@ -138,7 +134,6 @@ exports.createSchemaCustomization = ({ actions }) => {
       date: Date @dateformat
       link: String
       image: String
-      contenttype: NodeType
     }
 
     type Fields {

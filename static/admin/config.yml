@@ -24,12 +24,6 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - {
-          label: "ContentType",
-          name: "contenttype",
-          widget: "hidden",
-          default: "POST",
-        }
   - name: "games"
     label: "Games"
     label_singular: "game"
@@ -47,9 +41,3 @@ collections:
       - { label: "Link", name: "link", widget: "string" }
       - { label: "Image", name: "image", widget: "file" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - {
-          label: "ContentType",
-          name: "contenttype",
-          widget: "hidden",
-          default: "GAME",
-        }

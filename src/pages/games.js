@@ -1,12 +1,4 @@
-import * as React from "react"
-import { Link, graphql } from "gatsby"
-
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import Seo from "../components/seo"
-import PostList from "../components/postlist"
-
-const BlogPosts = ({ data, location }) => {
+const Games = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
 
@@ -63,7 +55,7 @@ const BlogPosts = ({ data, location }) => {
   )
 }
 
-export default BlogPosts
+export default Games
 
 export const pageQuery = graphql`
   query {
@@ -74,7 +66,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { sourceInstanceName: { eq: "posts" } }
+      filter: { sourceInstanceName: { eq: "games" } }
     ) {
       nodes {
         excerpt

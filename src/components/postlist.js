@@ -4,7 +4,10 @@ import { useStaticQuery, Link, graphql } from "gatsby"
 const PostList = () => {
   const data = useStaticQuery(graphql`
     query PostListQuery {
-      allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+      allMarkdownRemark(
+        sort: { fields: [frontmatter___date], order: DESC }
+        filter: { sourceInstanceName: { eq: "posts" } }
+      ) {
         nodes {
           fields {
             slug

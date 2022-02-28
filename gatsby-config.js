@@ -96,6 +96,7 @@ module.exports = {
               {
                 allMarkdownRemark(
                   sort: { order: DESC, fields: [frontmatter___date] },
+                  filter: { sourceInstanceName: { eq: "posts" } },
                 ) {
                   nodes {
                     excerpt
