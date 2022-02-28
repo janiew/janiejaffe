@@ -2,6 +2,7 @@
 title: Test Post
 date: 2021-12-30T01:05:15.226Z
 description: A test blog post
+contenttype: POST
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and
