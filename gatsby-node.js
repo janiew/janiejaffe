@@ -126,11 +126,19 @@ exports.createSchemaCustomization = ({ actions }) => {
       fields: Fields
     }
 
+    enum NodeType {
+      POST
+      GAME
+    }
+
     type Frontmatter {
       title: String
       description: String
       tags: [String!]
       date: Date @dateformat
+      link: String
+      image: String
+      contenttype: NodeType
     }
 
     type Fields {
