@@ -8,3 +8,4 @@ description: The first tabletop game I ever published. A one page entry for the
   game of telling and retelling stories around a campfire, and what happens to a
   folk tale across generations.
 ---
+The first tabletop game I ever published. A one page entry for the Record Collection Jam 2019, inspired by The Crane Wife by The Decemberists. A game of telling and retelling stories around a campfire, and what happens to a folk tale across generations.
