@@ -8,5 +8,5 @@ description: An experimental single player game about making a record of
   Originally published in March of 2019, the games rules are being played on
   itself. I have updated the game five times, each time destroying it slightly
   more. Some day it will not be a game but a destroyed record. A meditation on
-  archive, technology, memory, and loss - I am immensly proud of it.
+  archive, technology, memory, and loss - I am immensely proud of it.
 ---
