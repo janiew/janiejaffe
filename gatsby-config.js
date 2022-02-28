@@ -3,7 +3,7 @@ module.exports = {
     title: `Janie Jaffe`,
     author: {
       name: `Janie Jaffe`,
-      summary: `is a multimedia artist, writer, developer, and angel. She makes video art/games/writing/music about the future/gender/embodiment/technology. She lives in New York with a well worn pack of playing cards and lately has been thinking a lot about collarbones.`,
+      summary: `is a multimedia artist, writer, developer, and angel. She makes video art/games/writing/music about the future/gender/embodiment/technology. She lives in New York with a well worn pack of playing cards.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
@@ -18,6 +18,13 @@ module.exports = {
       options: {
         path: `${__dirname}/content/posts`,
         name: `posts`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/games`,
+        name: `games`,
       },
     },
     {
