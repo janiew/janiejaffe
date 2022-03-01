@@ -5,9 +5,10 @@ tags:
   - post
 date: 2022-02-28T23:14:11.412Z
 description: This is a Test Post
-contenttype: POST
+contenttype: post
 ---
-This is a long test post!!!! 
+
+This is a long test post!!!!
 
 1. sdlfksj
 

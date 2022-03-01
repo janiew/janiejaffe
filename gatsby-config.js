@@ -95,8 +95,8 @@ module.exports = {
             query: `
               {
                 allMarkdownRemark(
+                  filter: {frontmatter: {contenttype: {eq: "post"}}},
                   sort: { order: DESC, fields: [frontmatter___date] },
-                  filter: { sourceInstanceName: { eq: "posts" } },
                 ) {
                   nodes {
                     excerpt

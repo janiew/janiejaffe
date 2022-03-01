@@ -72,8 +72,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       filter: {
-        frontmatter: { tags: { eq: $tag } }
-        sourceInstanceName: { eq: "posts" }
+        frontmatter: { tags: { eq: $tag }, contenttype: { eq: "post" } }
       }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {

@@ -13,7 +13,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     `
       {
         allMarkdownRemark(
-          filter: { sourceInstanceName: { eq: "posts" } }
+          filter: { frontmatter: { contenttype: { eq: "post" } } }
           sort: { fields: [frontmatter___date], order: ASC }
           limit: 1000
         ) {
@@ -133,7 +133,6 @@ exports.createSchemaCustomization = ({ actions }) => {
       tags: [String!]
       date: Date @dateformat
       link: String
-      image: String
     }
 
     type Fields {

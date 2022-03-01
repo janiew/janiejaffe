@@ -5,8 +5,8 @@ const PostList = () => {
   const data = useStaticQuery(graphql`
     query PostListQuery {
       allMarkdownRemark(
+        filter: { frontmatter: { contenttype: { eq: "post" } } }
         sort: { fields: [frontmatter___date], order: DESC }
-        filter: { sourceInstanceName: { eq: "posts" } }
       ) {
         nodes {
           fields {

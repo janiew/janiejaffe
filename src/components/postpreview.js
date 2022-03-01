@@ -5,7 +5,7 @@ const PostPreview = () => {
   const data = useStaticQuery(graphql`
     query PreviewQuery {
       allMarkdownRemark(
-        filter: { sourceInstanceName: { eq: "posts" } }
+        filter: { frontmatter: { contenttype: { eq: "post" } } }
         sort: { fields: frontmatter___date, order: DESC }
         limit: 1
       ) {

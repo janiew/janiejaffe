@@ -73,8 +73,8 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
+      filter: { frontmatter: { contenttype: { eq: "post" } } }
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { sourceInstanceName: { eq: "posts" } }
     ) {
       nodes {
         excerpt
