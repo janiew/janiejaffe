@@ -1,7 +1,8 @@
 import * as React from "react"
 import { useStaticQuery, Link, graphql } from "gatsby"
+import classNames from "classnames"
 
-const PostList = () => {
+const PostList = ({ activeTags, setTags }) => {
   const data = useStaticQuery(graphql`
     query PostListQuery {
       allMarkdownRemark(
@@ -50,7 +51,12 @@ const PostList = () => {
   const tagLinks = (
     <div className="taglist">
       {[...tagset].map(tag => (
-        <Link to={`/tags/${tag}/`}>{tag}</Link>
+        <Link
+          className={classNames("tag", { active: activeTags.includes(tag) })}
+          to={`/tags/${tag}/`}
+        >
+          {tag}
+        </Link>
       ))}
     </div>
   )
