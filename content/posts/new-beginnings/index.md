@@ -1,7 +1,7 @@
 ---
 title: New Beginnings
 date: 2015-05-28T22:40:32.169Z
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/1200px-Oranges_-_whole-halved-segment.jpg
+image: janie-alanza-17-.jpg
 description: This is a custom description for SEO and Open Graph purposes,
   rather than the default generated excerpt. Simply add a description field to
   the frontmatter.
