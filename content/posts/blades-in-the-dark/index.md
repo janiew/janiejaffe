@@ -3,7 +3,7 @@ title: Blades in the Dark
 tags:
   - games
   - dev
-date: 2024-09-17T21:07:53.777Z
+date: 2022-11-01T21:07:53.777Z
 image: screen-shot-2022-08-09-at-1.43.02-pm.png
 description: digital ttrpg adaptation for One More Multiverse
 contenttype: post
