@@ -1,12 +1,11 @@
 ---
-title: Grapenut NYC Show
+title: Simulacrum
 tags:
   - video
   - gigs
-date: 2024-09-17T18:46:53.930Z
-image: img_6073.jpg
-description: "@ the bowery december 2022"
+date: 2024-09-17T18:53:10.332Z
+image: img_6068.jpg
+description: fashion show @ the living gallery oct 2022
+contenttype: post
 ---
-![](screenshot-2024-09-17-at-2.48.22-pm.png)
-
-![](screenshot-2024-09-17-at-2.50.19-pm.png)
+![](img_9278.jpg)

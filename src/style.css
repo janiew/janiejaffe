@@ -380,7 +380,7 @@ a:focus {
 }
 
 .index-header {
-  height: 180px;
+  /* height: 180px; */
 }
 
 .index-header-nav {
