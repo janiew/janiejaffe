@@ -54,12 +54,12 @@ export const pageQuery = graphql`
         frontmatter {
           date(formatString: "MMMM DD, YYYY")
           title
-          description
           image {
             childImageSharp {
-              gatsbyImageData(width: 200, placeholder: BLURRED)
+              gatsbyImageData(placeholder: BLURRED)
             }
           }
+          description
         }
       }
     }

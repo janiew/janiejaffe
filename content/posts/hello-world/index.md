@@ -4,6 +4,7 @@ tags:
   - tag
   - test
 date: 2015-05-01T22:12:03.284Z
+image: salty_egg.jpg
 description: Hello World
 contenttype: post
 ---

@@ -245,7 +245,7 @@ a:focus {
 
 .global-wrapper {
   margin: var(--spacing-0) auto;
-  max-width: var(--maxWidth-wrapper);
+  max-width: var(--maxWidth-full);
   padding: var(--spacing-10) var(--spacing-5);
 }
 
@@ -267,12 +267,20 @@ a:focus {
   display: flex;
   flex-direction: column;
   gap: 8px;
+  margin-left: 32px;
+  margin-right: 32px;
 }
 
 .index-sub {
   display: flex;
+  flex-direction: column;
+}
+
+.all-posts {
+  display: flex;
   flex-direction: row;
-  gap: 40px;
+  flex-wrap: wrap;
+  gap: 16px;
 }
 
 .header-row {
@@ -308,12 +316,14 @@ a:focus {
 }
 
 .post-list-item {
-  margin-bottom: var(--spacing-8);
-  margin-top: var(--spacing-8);
+  background-color: white;
+  color: black;
+  border-radius: 16px;
 }
 
 .post-list-item p {
   margin-bottom: var(--spacing-0);
+  padding: 8px;
 }
 
 .post-list-item h2 {
@@ -325,11 +335,10 @@ a:focus {
 
 .post-list-item header {
   margin-bottom: var(--spacing-4);
+  padding: 8px;
 }
 
 .postlist {
-  border: 1px solid white;
-  width: 150px;
   flex-shrink: 0;
   padding: 8px;
   height: max-content;
@@ -375,17 +384,19 @@ a:focus {
 }
 
 .index-header-nav {
-  position: sticky;
+  /* position: sticky;
   margin-top: 120px;
   top: var(--spacing-8);
   mix-blend-mode: difference;
-  left: auto;
+  left: auto; */
+  background-color: black;
+}
+
+.index-header-nav * {
+  color: white;
 }
 
 .index-header-img {
-  position: absolute;
-  top: 0;
-  left: 0;
   width: 100%;
   height: 300px;
   background-position: 0% 25%;
@@ -394,6 +405,7 @@ a:focus {
   background-image: url("images/bg.png");
   background-repeat: no-repeat;
   background-position-x: center;
+  filter: invert();
 }
 
 .footer {
@@ -407,6 +419,7 @@ a:focus {
   background-image: url("images/footer.png");
   background-repeat: no-repeat;
   background-position-x: right;
+  filter: invert();
 }
 
 .blog-post header h1 {
@@ -435,11 +448,10 @@ a:focus {
   transition: all 500ms steps(3, jump-start);
 }
 .tag:hover {
-  padding: 4px;
   background-color: white;
   color: black;
   transition: none;
-  transition: all 200ms steps(3, jump-start);
+  /* transition: all 200ms steps(3, jump-start); */
 }
 
 .active {
@@ -449,8 +461,9 @@ a:focus {
 
 .taglist {
   display: flex;
-  gap: 2px;
+  gap: 4px;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 /* Media queries */

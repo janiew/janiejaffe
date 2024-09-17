@@ -63,10 +63,10 @@ const PostList = ({ activeTags, setTags }) => {
 
   return (
     <div className="postlist">
-      <h5>Tags</h5>
+      {/* <h5>Tags</h5> */}
       {tagLinks}
-      <h5>Posts</h5>
-      {postLinks}
+      {/* <h5>Posts</h5>
+      {postLinks} */}
     </div>
   )
 }
