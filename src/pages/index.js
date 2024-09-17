@@ -10,7 +10,16 @@ import AllPosts from "../components/allposts"
 
 const PageIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
-  const [tags, setTags] = React.useState(["test"])
+  const [tags, setTags] = React.useState([])
+
+  const posts = tags.length
+    ? data.allMarkdownRemark.nodes.filter(n => {
+        console.log(n)
+        console.log(tags)
+        return n.frontmatter.tags?.some(t => tags.includes(t))
+      })
+    : data.allMarkdownRemark.nodes
+
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="Homepage" />
@@ -18,7 +27,7 @@ const PageIndex = ({ data, location }) => {
         <Bio />
         <div className="index-sub">
           <PostList activeTags={tags} setTags={setTags} />
-          <AllPosts posts={data.allMarkdownRemark.nodes} />
+          <AllPosts posts={posts} />
         </div>
       </div>
     </Layout>
@@ -47,9 +56,10 @@ export const pageQuery = graphql`
           date(formatString: "MMMM DD, YYYY")
           title
           description
+          tags
           image {
             childImageSharp {
-              gatsbyImageData(width: 400, placeholder: BLURRED)
+              gatsbyImageData(width: 500, placeholder: BLURRED)
             }
           }
         }

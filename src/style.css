@@ -321,7 +321,7 @@ a:focus {
   color: black;
   border-radius: 16px;
   height: fit-content;
-  max-width: 400px;
+  max-width: 500px;
 }
 
 .post-list-item p {
@@ -454,6 +454,7 @@ a:focus {
   color: white;
   text-decoration: none;
   transition: all 500ms steps(3, jump-start);
+  cursor: pointer;
 }
 .tag:hover {
   background-color: white;

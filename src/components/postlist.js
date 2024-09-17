@@ -25,6 +25,14 @@ const PostList = ({ activeTags, setTags }) => {
 
   const posts = data.allMarkdownRemark.nodes
   const tags = []
+
+  const onClickTag = tag => () => {
+    if (activeTags.includes(tag)) {
+      setTags(() => activeTags.filter(t => t !== tag))
+    } else {
+      setTags(() => [...activeTags, tag])
+    }
+  }
   const postLinks = posts.length ? (
     <ul>
       {posts.map(post => {
@@ -51,12 +59,12 @@ const PostList = ({ activeTags, setTags }) => {
   const tagLinks = (
     <div className="taglist">
       {[...tagset].map(tag => (
-        <Link
+        <div
           className={classNames("tag", { active: activeTags.includes(tag) })}
-          to={`/tags/${tag}/`}
+          onClick={onClickTag(tag)}
         >
           {tag}
-        </Link>
+        </div>
       ))}
     </div>
   )
