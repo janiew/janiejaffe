@@ -2,7 +2,7 @@
 title: Paraesthesia
 tags:
   - video
-date: 2024-03-29T19:39:28.730Z
+date: 2023-12-07T20:39:28.730Z
 image: screenshot-2023-12-07-at-6.51.12-pm.jpg
 description: ropes shoot short film
 contenttype: post
