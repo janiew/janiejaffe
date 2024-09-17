@@ -5,7 +5,7 @@ tags:
   - gigs
 date: 2024-05-16T18:08:45.284Z
 image: dsc01077-2.jpg
-description: club wonderland @ trans pecos & wonderville, 2022-24
+description: trans pecos & wonderville, 2022-24
 contenttype: post
 ---
 ![](dsc01790-2.jpg)
