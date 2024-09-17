@@ -10,6 +10,8 @@ contenttype: post
 ---
 ![](dsc01790-2.jpg)
 
+![](dsc01178-2.jpg)
+
 ![](img_6069.jpg)
 
 ![](dsc01355-2.jpg)
