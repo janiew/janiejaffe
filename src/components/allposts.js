@@ -9,7 +9,7 @@ const AllPosts = ({ posts }) => {
         const title = post.frontmatter.title || post.fields.slug
         const image = getImage(post.frontmatter.image)
         if (!image) console.log("no image for post " + title)
-
+        console.log(title)
         return (
           <article
             className="post-list-item"
