@@ -1,5 +1,6 @@
 import * as React from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
+import { GatsbyImage } from "gatsby-plugin-image"
 
 const PostPreview = () => {
   const data = useStaticQuery(graphql`
@@ -15,6 +16,11 @@ const PostPreview = () => {
             date(formatString: "MM·DD·YY")
             description
             title
+            image {
+              childImageSharp {
+                gatsbyImageData(placeholder: BLURRED)
+              }
+            }
           }
           fields {
             slug
@@ -47,6 +53,7 @@ const PostPreview = () => {
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
         </Link>
         <p>{post.frontmatter.date}</p>
+        <GatsbyImage image={post.frontmatter.image} />
       </header>
       <section
         dangerouslySetInnerHTML={{ __html: post.html }}

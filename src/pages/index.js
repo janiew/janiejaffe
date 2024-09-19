@@ -25,9 +25,10 @@ const PageIndex = ({ data, location }) => {
       <Seo title="Homepage" />
       <div className="index-main">
         <Bio />
+        <hr />
         <div className="index-sub">
           <PostList activeTags={tags} setTags={setTags} />
-          <AllPosts posts={posts} />
+          <AllPosts posts={posts} tags={tags} />
         </div>
       </div>
     </Layout>

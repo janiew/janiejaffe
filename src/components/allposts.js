@@ -1,43 +1,51 @@
 import * as React from "react"
 import { Link } from "gatsby"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
+import { Masonry } from "masonic"
 
-const AllPosts = ({ posts }) => {
+const AllPosts = ({ posts, tags }) => {
+  const key = tags.reduce((t, n) => t + n, "")
   return (
-    <div className="all-posts">
-      {posts.map(post => {
-        const title = post.frontmatter.title || post.fields.slug
-        const image = getImage(post.frontmatter.image)
-        if (!image) console.log("no image for post " + title)
-        console.log(title)
-        return (
-          <article
-            className="post-list-item"
-            itemScope
-            itemType="http://schema.org/Article"
-            key={post.fields.slug}
-          >
-            <header>
-              <h2>
-                <Link to={post.fields.slug} itemProp="url">
-                  <span itemProp="headline">{title}</span>
-                </Link>
-              </h2>
-              <small>{post.frontmatter.date}</small>
-            </header>
-            <section>
-              <GatsbyImage image={image} />
-              <p
-                dangerouslySetInnerHTML={{
-                  __html: post.frontmatter.description || post.excerpt,
-                }}
-                itemProp="description"
-              />
-            </section>
-          </article>
-        )
-      })}
-    </div>
+    <Masonry
+      key={key}
+      className="all-posts"
+      render={PostDisplay}
+      items={posts}
+      columnWidth={400}
+      columnGutter={16}
+    />
+  )
+}
+
+const PostDisplay = ({ index, data, width }) => {
+  const title = data.frontmatter.title || data.fields.slug
+  const image = getImage(data.frontmatter.image)
+  if (!image) console.log("no image for post " + title)
+  return (
+    <article
+      className="post-list-item"
+      itemScope
+      itemType="http://schema.org/Article"
+      key={data.fields.slug}
+    >
+      <Link to={data.fields.slug} itemProp="url">
+        <header>
+          <h2>
+            <span itemProp="headline">{title}</span>
+          </h2>
+          <small>{data.frontmatter.date}</small>
+        </header>
+        <section>
+          <GatsbyImage image={image} />
+          <p
+            dangerouslySetInnerHTML={{
+              __html: data.frontmatter.description || data.excerpt,
+            }}
+            itemProp="description"
+          />
+        </section>
+      </Link>
+    </article>
   )
 }
 

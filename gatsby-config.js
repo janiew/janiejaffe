@@ -3,9 +3,9 @@ module.exports = {
     title: `Janie Jaffe`,
     author: {
       name: `Janie Jaffe`,
-      summary: `is a multimedia artist, writer, developer, and angel. She makes video art/games/writing/music about the future/gender/embodiment/technology. She lives in New York with a well worn pack of playing cards.`,
+      summary: `is a game designer, developer, video artist, and angel. She lives in Brooklyn with a well worn pack of playing cards.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Portfolio website for Janie Jaffe.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `janie_jaffe`,
@@ -43,7 +43,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 630,
+              maxWidth: 800,
             },
           },
           {

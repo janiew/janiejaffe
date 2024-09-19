@@ -21,26 +21,41 @@ const Layout = ({ location, title, children }) => {
           <nav>
             <ul>
               <li>
-                <Link to="/posts" className="header-nav-link">
-                  blog
+                <Link
+                  to="https://janiejaffe.itch.io"
+                  className="header-nav-link"
+                >
+                  <StaticImage
+                    width={24}
+                    src="../images/itch.svg"
+                    alt="itch.io"
+                  />
                 </Link>
               </li>
               <li>·</li>
               <li>
-                <Link to="/games" className="header-nav-link">
-                  games
+                <Link
+                  to="https://x.com/janie_jaffe"
+                  className="header-nav-link"
+                >
+                  <StaticImage
+                    width={24}
+                    src="../images/twitter.svg"
+                    alt="twitter"
+                  />
                 </Link>
               </li>
               <li>·</li>
               <li>
-                <Link to="/video" className="header-nav-link">
-                  video art
-                </Link>
-              </li>
-              <li>·</li>
-              <li>
-                <Link to="/about" className="header-nav-link">
-                  about
+                <Link
+                  to="https://www.instagram.com/janiejaffe/"
+                  className="header-nav-link"
+                >
+                  <StaticImage
+                    width={24}
+                    src="../images/ig.svg"
+                    alt="instagram"
+                  />
                 </Link>
               </li>
             </ul>

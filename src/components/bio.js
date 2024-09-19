@@ -40,6 +40,12 @@ const Bio = () => {
           </a> */}
         </p>
       )}
+      <p>
+        You can reach her at janiejaffe0 <i>(at)</i> gmail <i>(dot)</i> com.
+      </p>
+      <p>
+        <i>Next gig: 9/28 @ Cutelab</i>
+      </p>
     </div>
   )
 }
