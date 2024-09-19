@@ -6,7 +6,7 @@ module.exports = {
       summary: `is a game designer, developer, video artist, and angel. She lives in Brooklyn with a well worn pack of playing cards.`,
     },
     description: `Portfolio website for Janie Jaffe.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://www.janiejaffe.com/`,
     social: {
       twitter: `janie_jaffe`,
     },
@@ -20,13 +20,6 @@ module.exports = {
       options: {
         path: `${__dirname}/content/posts`,
         name: `posts`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/content/games`,
-        name: `games`,
       },
     },
     {
@@ -123,15 +116,15 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Janie Jaffe`,
+        short_name: `janiejaffe.com`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
-        // theme_color: `#663399`,
+        theme_color: `#000000`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/icon.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,

@@ -6,7 +6,6 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   // Define a template for blog post
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
-  const tagPosts = path.resolve(`./src/templates/tags.js`)
 
   // Get all markdown blog posts sorted by date
   const result = await graphql(
@@ -41,7 +40,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   const posts = result.data.allMarkdownRemark.nodes
 
-  const rawTags = []
+  // const rawTags = []
 
   // Create blog posts pages
   // But only if there's at least one markdown file found at "content/blog" (defined in gatsby-config.js)
@@ -51,10 +50,6 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     posts.forEach((post, index) => {
       const previousPostId = index === 0 ? null : posts[index - 1].id
       const nextPostId = index === posts.length - 1 ? null : posts[index + 1].id
-
-      if (post.frontmatter.tags && post.frontmatter.tags.length) {
-        rawTags.push(...post.frontmatter.tags)
-      }
 
       createPage({
         path: post.fields.slug,
@@ -68,19 +63,19 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     })
   }
 
-  const tags = [...new Set(rawTags)]
+  // const tags = [...new Set(rawTags)]
 
-  if (tags.length) {
-    tags.forEach(tag => {
-      createPage({
-        path: `tags/${tag}`,
-        component: tagPosts,
-        context: {
-          tag,
-        },
-      })
-    })
-  }
+  // if (tags.length) {
+  //   tags.forEach(tag => {
+  //     createPage({
+  //       path: `tags/${tag}`,
+  //       component: tagPosts,
+  //       context: {
+  //         tag,
+  //       },
+  //     })
+  //   })
+  // }
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {

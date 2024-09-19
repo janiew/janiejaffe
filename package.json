@@ -1,12 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "janiejaffe.com",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Portfolio site for Janie Jaffe",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
+  "author": "Janie Jaffe <janiejaffe0@gmail.com>",
   "dependencies": {
     "classnames": "^2.5.1",
     "gatsby": "^4.4.0",

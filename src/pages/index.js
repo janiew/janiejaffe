@@ -22,7 +22,7 @@ const PageIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="Homepage" />
+      <Seo title="Janie Jaffe" />
       <div className="index-main">
         <Bio />
         <hr />
