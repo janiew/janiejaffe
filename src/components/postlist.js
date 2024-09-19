@@ -27,7 +27,7 @@ const PostList = ({ activeTags, setTags }) => {
   const tags = []
 
   const onClickTag = tag => () => {
-    if (activeTags.includes(tag)) {
+    if (activeTags?.includes(tag)) {
       setTags(() => activeTags.filter(t => t !== tag))
     } else {
       setTags(() => [...activeTags, tag])
@@ -60,7 +60,7 @@ const PostList = ({ activeTags, setTags }) => {
     <div className="taglist">
       {[...tagset].map(tag => (
         <div
-          className={classNames("tag", { active: activeTags.includes(tag) })}
+          className={classNames("tag", { active: activeTags?.includes(tag) })}
           onClick={onClickTag(tag)}
         >
           {tag}
