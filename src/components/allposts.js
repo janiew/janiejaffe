@@ -4,7 +4,7 @@ import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import { Masonry } from "masonic"
 
 const AllPosts = ({ posts, tags }) => {
-  const key = tags.reduce((t, n) => t + n, "")
+  const key = !!tags ? tags.reduce((t, n) => t + n, "") : "allposts"
   return (
     <Masonry
       key={key}
