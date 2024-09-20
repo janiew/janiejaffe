@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Portfolio website for Janie Jaffe.]]></description><link>https://www.janiejaffe.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 20 Sep 2024 14:09:20 GMT</lastBuildDate><item><title><![CDATA[Late Stage Live]]></title><link>https://www.janiejaffe.com/late-stage-live/</link><guid isPermaLink="false">https://www.janiejaffe.com/late-stage-live/</guid><pubDate>Thu, 19 Sep 2024 16:58:33 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0e9b456a1c329cba6c7e0a2e4b6d1adf/c6162/screenshot-2024-09-19-at-1.00.46-pm.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 72%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAADtUlEQVQ4yyWTSUybdxDF//a3+LMhUAgGbBYvLAbbgMFsCWaxAbPFLA4FpySkoWGnpMUKSUggKEFNQhrSQtoqPSQH1JSWVpU45lJ1UU+Voh449JK2OeRQtVJPvf6qfD08aUaaeU8zb0b4pUJewScVUCk5qZAcevwKQclNuZxHjpaOQ8kmIlXQrQToUKoIy37Cip9epYYTapAepYZupRoxqXUypUV5S2tnWovyKp82R5k0d9IhVZFoq2L/epLt5STlws45rZ0BUz2jphDDpmOcMoWImxqJqXUk1ND/hEvmftYtCdYto6xaRkia+7mekqDWUMTtd8Z48fmn/PTR+1TnFnFB6dPFVswnuWE5pddfloe4JA+xZhlFNKtlxEy19Ko1hJQyHa1qORHFR5liY2txjJe7O/y8uUFPbRCXsBIx+YioPjrlCsKinHO+HuYCcfqNQYRPyqNSLsQv51Mq5eoIKk48ogB7RgYxr5ODpQm+Xl8h0dyFQ6RRJNsIChe1UhET0RjXluaJhluQhEA4jVYcRiteKY8K3Yw8HIZs3rA4GCrJI5hm5mp6JlOlDqIuNz96Whk84sGbWcg3K2ucifXjyrLjkeyEVT8i15BOjiGdEmMuDukoQggS9iL+bBkgWZhLqCCNR9mZzLizaCmw8as7xOH6e2yuLFLvcWMUglqDW3e8RwkgTptauWyOM2vuIkVYCGZYeTl4hsP6KBdsr3Ex4mV3dpyzjT7eDHj5ZXWJ5wdP2Jye0cVtUgZXUoaZNnfpjosZUxdxtRFNqNhUC4dtg/xR08uXhcXs1FVyNznLZ/t7fPVom50rc+wnhtlzlPPh2BjxHJ9OGlEraFBKCMouRLca0OdvNBXzfWmEv5zHOejpJTl1ns21de7eu83+wzt8+/gWgWInPUJwJ9PK4/gQD3Md+CUb46YwZ7U2JrUOhN2YjlVkMp9TxT/1/fwdGOJ5cpKne9u8ePYd2/MJlgbb2bj2Lqez8rkoWVgwGrhqMHJT1lhO7eOS5SQTWkS/SeE0HiVVpDBjreQ3ZwNfVNfzbHeL35/c5+nH99ieG2exP8KDB/fpqKhkTBgYl1MYNB5hWLFTJ7vwS/k0y2V0yVWIsOIjKgcYSa3jRko2y1aJD6JuRvxORsJNtJaW8HZigLCvDK9RYsEgmFJdjGjtxJR6XlePEVca6FOC+p+LJtlDq1KOR7brC761MMS/P9zlTCzMJ1s32b6zwYm2JgJCcF7WWBWCOdVKSPUTlr16b6NcTEgu47hSyn8eLuJzQMhLggAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;screenshot 2024 09 19 at 1 00 46 pm&quot;
+        title=&quot;screenshot 2024 09 19 at 1 00 46 pm&quot;
+        src=&quot;/static/0e9b456a1c329cba6c7e0a2e4b6d1adf/5a190/screenshot-2024-09-19-at-1.00.46-pm.png&quot;
+        srcset=&quot;/static/0e9b456a1c329cba6c7e0a2e4b6d1adf/772e8/screenshot-2024-09-19-at-1.00.46-pm.png 200w,
+/static/0e9b456a1c329cba6c7e0a2e4b6d1adf/e17e5/screenshot-2024-09-19-at-1.00.46-pm.png 400w,
+/static/0e9b456a1c329cba6c7e0a2e4b6d1adf/5a190/screenshot-2024-09-19-at-1.00.46-pm.png 800w,
+/static/0e9b456a1c329cba6c7e0a2e4b6d1adf/c1b63/screenshot-2024-09-19-at-1.00.46-pm.png 1200w,
+/static/0e9b456a1c329cba6c7e0a2e4b6d1adf/29007/screenshot-2024-09-19-at-1.00.46-pm.png 1600w,
+/static/0e9b456a1c329cba6c7e0a2e4b6d1adf/c6162/screenshot-2024-09-19-at-1.00.46-pm.png 2166w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/56a6a4b025bc62f0c59e0b55e1f523f4/0b569/screenshot-2024-09-19-at-1.01.19-pm.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.00000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACvElEQVQozyXO/0vUdwDH8Q+j/RZEaz/EXLEfJbZ+GRsUwagfFgTRl9WKLResLxCbRD/UjG1F6wuEbo3KM/VOwWkOLGwsy5G4spzu8k7v9OzuvD532crC8+7jmZZ3n/frObTnH/DgafkGwdcDvvOiqVQ0HxH+AyJwTIx5DdnOAk5AGBv0SOiZkAPMijwiKzEukQbCEtavV8apPOZQVwI1X4mOUhH8UdjNLvkhmH0Ir/qBiFByDhO8AINwJDISU0DciD4jrL0bqzi+wY/nc2jeL4InDcM3XB6PQM/dFDc97cz685AAZQQOyJ1DXt9NSIxIBCQG5sFNVVw4aNN2AJKlhrjP0D5s8KRh044Stq4oItU5BBkwaRdmDC+BV8Bzaf6sXyIE3JgRVnl5lL4qQ+5rwV5hN7h4DZwLPWLbmpXs/rgYz/FymAByhgLzJunJF9gG4rzG7uWFzxHW5d8h/i2YzwTfiH+7CtTOwOHG26x8dzEfvreU5UVFRO4/YK5cepSH/g5iiQSZaehPuPQXRNOUqJkDG8qizJSA+c7w/IKoCBcoS8C67Xt4480FLFi4iHfeXsKt35pwnac4qRDO6ARZG5J+l9Cw4a+8qM6IunGweraEmToEoz6Dt8tlYxgqhvOc+OEXrLeWsXXnZnZt28A/3ov8Fxgkl4LpKIwNuoQkuhEtk6J5UniTwnJ2Q8gjol6XyG34cmCWo2cv0VJ/i+pzXnqv+fh+3y72b/+CtpoWciOQThWIjougI/5+YriaFXUZQ3XMYMV+MgQbDYlrcPNBnhNdIQ6dqqSy4gxOLMLdjnZWvf8BHxWvpu28zVgEEvEC4bih1xF/ZkWTIy49FfVDwrJPGy53Q2swx/U/hrAfQ2NrL6d+ruBOdyfrP1nLpyuK2bK6jDsN4DzJMxgTgWeidVrUT4rapKgdEPUD4n/3D9tMDYTl/wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;screenshot 2024 09 19 at 1 01 19 pm&quot;
+        title=&quot;screenshot 2024 09 19 at 1 01 19 pm&quot;
+        src=&quot;/static/56a6a4b025bc62f0c59e0b55e1f523f4/5a190/screenshot-2024-09-19-at-1.01.19-pm.png&quot;
+        srcset=&quot;/static/56a6a4b025bc62f0c59e0b55e1f523f4/772e8/screenshot-2024-09-19-at-1.01.19-pm.png 200w,
+/static/56a6a4b025bc62f0c59e0b55e1f523f4/e17e5/screenshot-2024-09-19-at-1.01.19-pm.png 400w,
+/static/56a6a4b025bc62f0c59e0b55e1f523f4/5a190/screenshot-2024-09-19-at-1.01.19-pm.png 800w,
+/static/56a6a4b025bc62f0c59e0b55e1f523f4/c1b63/screenshot-2024-09-19-at-1.01.19-pm.png 1200w,
+/static/56a6a4b025bc62f0c59e0b55e1f523f4/29007/screenshot-2024-09-19-at-1.01.19-pm.png 1600w,
+/static/56a6a4b025bc62f0c59e0b55e1f523f4/0b569/screenshot-2024-09-19-at-1.01.19-pm.png 2878w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3da81f12c2e22b73663b5e7adf1c4964/d9ed5/screenshot-2024-09-19-at-1.01.50-pm.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.00000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAADAUlEQVQozx3M/0/UdRzA8dfn/bkVxWJZo1azzNpsw75Is5hfwvVNxpotEe8HklU4mFYHeIiaKAhiUyeUIjiUdUDEl+DuIBEDOs8DDjhi3Of9/tzRWnNtbVk/1Nb6pR+fbT3+gIeY/Ax0oSJ1XJEO2Mz0KMJhxUDcYrHDIlmZwcCeHMa23Mdq9ssYeZ9lqSUsV+iQUY7JD1SKS5U4FIlG9CcKt1Ux36+4EbQYnrDoSgqNrocb3wjjR54ndvkq7aV5LBVk4q7LwVU70eJnSi4QkEEaZY4qcfH/H562SfUqoj2K7kmh2xG6U0LD6j2cnxT6D73OxOfNNHhziX8spPYJeuN6TMa7uOJjTpoYlC9pkUlqxEFMuwfdqUj32SQCiuExi564RUALLfNCQ8lzXKopoXBrFt83CelaC+ctG537ODqzAFfKScinBKWTTgkher+NOaZY7lLEhhSJTg+hsBCcf4qp66XMtNVz64t6vK+uZ7xuE+kDmTh7Bb1dWH3xaRYf2MHU/V60HCViNSGm0MYtVix2KaLtipXjipHrQixUw8/Bm/yTiPLLSDdHynYy0HCU5dINpF4T3M1rWSjYwde7i5l+djeOlDPtqUbMtofR5Rm4lyzcAx5WDgqTo08SbTnJwlft/Hv3Dn9Ev6Pt3GGu1XyI88Yalt7eQKTIy1y+l0i2l4h9gjl1kGH7LGJyXkB/5ME5ZGHyPZgyYXWwhIWqIlY7WvjtpzR33SQTA70MnfAzV1nG7V37iD/0DrPyHrPiZ0lqiclppqxWxGTnoosFXWJjttg4FRbxtmqWW6v4ffImf+skd2Yj9J1tpru+lou+Mqaz9jMjPpaUnxWrllvyGSG5wkUZR8yD2zGbH8HkPYbJexTzps1s0VqmT51jtOUCQ3V1hBtP0td6hnZvBaEn9nD7Xj9JOUxcTjEml+mVPpolRrW4iLF2oTO2YbK2Yp55BbPuJfSmNfwZDvPXj78S7R9hYXiYb6+1Me87T1o+QIuPiJyhXwJclSB1ksAnLhWWw39fngrLusEaNgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;screenshot 2024 09 19 at 1 01 50 pm&quot;
+        title=&quot;screenshot 2024 09 19 at 1 01 50 pm&quot;
+        src=&quot;/static/3da81f12c2e22b73663b5e7adf1c4964/5a190/screenshot-2024-09-19-at-1.01.50-pm.png&quot;
+        srcset=&quot;/static/3da81f12c2e22b73663b5e7adf1c4964/772e8/screenshot-2024-09-19-at-1.01.50-pm.png 200w,
+/static/3da81f12c2e22b73663b5e7adf1c4964/e17e5/screenshot-2024-09-19-at-1.01.50-pm.png 400w,
+/static/3da81f12c2e22b73663b5e7adf1c4964/5a190/screenshot-2024-09-19-at-1.01.50-pm.png 800w,
+/static/3da81f12c2e22b73663b5e7adf1c4964/c1b63/screenshot-2024-09-19-at-1.01.50-pm.png 1200w,
+/static/3da81f12c2e22b73663b5e7adf1c4964/29007/screenshot-2024-09-19-at-1.01.50-pm.png 1600w,
+/static/3da81f12c2e22b73663b5e7adf1c4964/d9ed5/screenshot-2024-09-19-at-1.01.50-pm.png 2880w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[7 Deadly Sines]]></title><link>https://www.janiejaffe.com/7-deadly-sines/</link><guid isPermaLink="false">https://www.janiejaffe.com/7-deadly-sines/</guid><pubDate>Fri, 21 Jun 2024 20:02:10 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1e42b290412982fa0f22a947cde9009b/e5bc7/janie-alanza-6-.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFAwT/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwT/2gAMAwEAAhADEAAAAW5dJFdFUQX/xAAbEAACAwADAAAAAAAAAAAAAAABAgADERIxM//aAAgBAQABBQLkFlRjMAbvLTr9/wD/xAAXEQADAQAAAAAAAAAAAAAAAAAAAQIR/9oACAEDAQE/AarGPT//xAAWEQEBAQAAAAAAAAAAAAAAAAAAASH/2gAIAQIBAT8BuK//xAAZEAACAwEAAAAAAAAAAAAAAAABEAAhMUH/2gAIAQEABj8Ctk9mr//EABsQAQACAgMAAAAAAAAAAAAAAAEAIRGhEFGR/9oACAEBAAE/IVHaX1WV42DfQxLew6z/2gAMAwEAAgADAAAAELgv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAEDAQE/EHOWr//EABYRAQEBAAAAAAAAAAAAAAAAAAEAMf/aAAgBAgEBPxBqLV//xAAcEAEAAwACAwAAAAAAAAAAAAABABEhMUFRsfD/2gAIAQEAAT8QcOht+YTcUG06q56lQdUvZi2AodbC0HpwoFM+LP/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;janie alanza 6 &quot;
+        title=&quot;janie alanza 6 &quot;
+        src=&quot;/static/1e42b290412982fa0f22a947cde9009b/4b190/janie-alanza-6-.jpg&quot;
+        srcset=&quot;/static/1e42b290412982fa0f22a947cde9009b/e07e9/janie-alanza-6-.jpg 200w,
+/static/1e42b290412982fa0f22a947cde9009b/066f9/janie-alanza-6-.jpg 400w,
+/static/1e42b290412982fa0f22a947cde9009b/4b190/janie-alanza-6-.jpg 800w,
+/static/1e42b290412982fa0f22a947cde9009b/e5166/janie-alanza-6-.jpg 1200w,
+/static/1e42b290412982fa0f22a947cde9009b/b17f8/janie-alanza-6-.jpg 1600w,
+/static/1e42b290412982fa0f22a947cde9009b/e5bc7/janie-alanza-6-.jpg 5184w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Club Wonderland]]></title><link>https://www.janiejaffe.com/club-wonderland/</link><guid isPermaLink="false">https://www.janiejaffe.com/club-wonderland/</guid><pubDate>Thu, 16 May 2024 18:08:45 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6c5b79e627ad9b748a5c5a09b766e6c0/430a7/dsc01790-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIDBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAa2fEuRxBv/EABoQAAICAwAAAAAAAAAAAAAAAAABAhAREyH/2gAIAQEAAQUClrRJrI32v//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AUf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGH/8QAHBAAAQMFAAAAAAAAAAAAAAAAAQACEQMSICEx/9oACAEBAAY/AqgaTcNQuzj/AP/EABsQAQACAgMAAAAAAAAAAAAAAAEAERBBIWFx/9oACAEBAAE/ITrClzfcsA9Kixbu3P8A/9oADAMBAAIAAwAAABA8D//EABcRAQEBAQAAAAAAAAAAAAAAAAEREEH/2gAIAQMBAT8QlAeY/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAERMVH/2gAIAQIBAT8Qs3pB/8QAGxABAQEAAgMAAAAAAAAAAAAAAREAITFBUWH/2gAIAQEAAT8QJOqwOyS+vmW6B0ouC5D1o18t7y8s13//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;dsc01790 2&quot;
+        title=&quot;dsc01790 2&quot;
+        src=&quot;/static/6c5b79e627ad9b748a5c5a09b766e6c0/4b190/dsc01790-2.jpg&quot;
+        srcset=&quot;/static/6c5b79e627ad9b748a5c5a09b766e6c0/e07e9/dsc01790-2.jpg 200w,
+/static/6c5b79e627ad9b748a5c5a09b766e6c0/066f9/dsc01790-2.jpg 400w,
+/static/6c5b79e627ad9b748a5c5a09b766e6c0/4b190/dsc01790-2.jpg 800w,
+/static/6c5b79e627ad9b748a5c5a09b766e6c0/e5166/dsc01790-2.jpg 1200w,
+/static/6c5b79e627ad9b748a5c5a09b766e6c0/b17f8/dsc01790-2.jpg 1600w,
+/static/6c5b79e627ad9b748a5c5a09b766e6c0/430a7/dsc01790-2.jpg 4898w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7fbc973190c34f95f9def0e01e2ca237/430a7/dsc01178-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABkVDsWiTF/8QAGxAAAgEFAAAAAAAAAAAAAAAAAAEDAgQQESH/2gAIAQEAAQUCUkbquOPDNn//xAAXEQADAQAAAAAAAAAAAAAAAAABAhAR/9oACAEDAQE/AQuT/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAQUAAAAAAAAAAAAAAAAAAAECESBR/9oACAEBAAY/AsGwtf/EABsQAQACAgMAAAAAAAAAAAAAAAEAIRFREEGB/9oACAEBAAE/IRx2r2AZk2EzsgXHfD//2gAMAwEAAgADAAAAEPvP/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QFCM//8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/EG6Q/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARIUFRMZH/2gAIAQEAAT8QwbApQu1NuvJkxhML7BoIXDDeTkV2x1luT//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;dsc01178 2&quot;
+        title=&quot;dsc01178 2&quot;
+        src=&quot;/static/7fbc973190c34f95f9def0e01e2ca237/4b190/dsc01178-2.jpg&quot;
+        srcset=&quot;/static/7fbc973190c34f95f9def0e01e2ca237/e07e9/dsc01178-2.jpg 200w,
+/static/7fbc973190c34f95f9def0e01e2ca237/066f9/dsc01178-2.jpg 400w,
+/static/7fbc973190c34f95f9def0e01e2ca237/4b190/dsc01178-2.jpg 800w,
+/static/7fbc973190c34f95f9def0e01e2ca237/e5166/dsc01178-2.jpg 1200w,
+/static/7fbc973190c34f95f9def0e01e2ca237/b17f8/dsc01178-2.jpg 1600w,
+/static/7fbc973190c34f95f9def0e01e2ca237/430a7/dsc01178-2.jpg 4898w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5dab0f7020ee2dd7fa5be6ddbde38193/ad68d/img_6069.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 67.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFBP/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAF4+1qJIEv/xAAaEAADAAMBAAAAAAAAAAAAAAABAgMABBMR/9oACAEBAAEFAuSPKiGZzUqe2x4Vz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABAx/9oACAECAQE/Aaf/xAAbEAEAAgIDAAAAAAAAAAAAAAABAiEAEBESYf/aAAgBAQAGPwIIByN51kGn28nVxTX/xAAcEAEAAgIDAQAAAAAAAAAAAAABESEAEDFBUWH/2gAIAQEAAT8hanQpZjWQ9O9WHiaxy4khPuv/2gAMAwEAAgADAAAAEK/P/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QCf/EABYRAQEBAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPxBIpn//xAAbEAEBAQACAwAAAAAAAAAAAAABEQAhMVFhcf/aAAgBAQABPxBekDT0Nftmh8uQDh3R0uCI4CHnGpAEkOx7w7//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;img 6069&quot;
+        title=&quot;img 6069&quot;
+        src=&quot;/static/5dab0f7020ee2dd7fa5be6ddbde38193/4b190/img_6069.jpg&quot;
+        srcset=&quot;/static/5dab0f7020ee2dd7fa5be6ddbde38193/e07e9/img_6069.jpg 200w,
+/static/5dab0f7020ee2dd7fa5be6ddbde38193/066f9/img_6069.jpg 400w,
+/static/5dab0f7020ee2dd7fa5be6ddbde38193/4b190/img_6069.jpg 800w,
+/static/5dab0f7020ee2dd7fa5be6ddbde38193/ad68d/img_6069.jpg 1170w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ea03f9e2bdfe9236a562796bfccd2fd3/430a7/dsc01355-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAv/aAAwDAQACEAMQAAABgZnrZbBxq//EABsQAAICAwEAAAAAAAAAAAAAAAECAxMEEBEh/9oACAEBAAEFAo24wnNhX0ORrHY1/wD/xAAYEQACAwAAAAAAAAAAAAAAAAAAAQISIf/aAAgBAwEBPwG4oJ6f/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECAxEh/9oACAECAQE/AXYKO9P/xAAeEAABAgcBAAAAAAAAAAAAAAAAASECEBExMkFRsf/aAAgBAQAGPwJOIRVw8GdJ32f/xAAZEAADAQEBAAAAAAAAAAAAAAAAAREhQTH/2gAIAQEAAT8h0bjCKd1gWvTg1pUxV9KKwsIf/9oADAMBAAIAAwAAABAQ3//EABYRAQEBAAAAAAAAAAAAAAAAAAABUf/aAAgBAwEBPxC5Qj//xAAWEQEBAQAAAAAAAAAAAAAAAAABACH/2gAIAQIBAT8QJchE/8QAGxABAQADAAMAAAAAAAAAAAAAAREAITFBUZH/2gAIAQEAAT8Qq4sSXxjLOvcjgmOKRsnDzZgEzJ1Q+4tarfdxakQAlmjP/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;dsc01355 2&quot;
+        title=&quot;dsc01355 2&quot;
+        src=&quot;/static/ea03f9e2bdfe9236a562796bfccd2fd3/4b190/dsc01355-2.jpg&quot;
+        srcset=&quot;/static/ea03f9e2bdfe9236a562796bfccd2fd3/e07e9/dsc01355-2.jpg 200w,
+/static/ea03f9e2bdfe9236a562796bfccd2fd3/066f9/dsc01355-2.jpg 400w,
+/static/ea03f9e2bdfe9236a562796bfccd2fd3/4b190/dsc01355-2.jpg 800w,
+/static/ea03f9e2bdfe9236a562796bfccd2fd3/e5166/dsc01355-2.jpg 1200w,
+/static/ea03f9e2bdfe9236a562796bfccd2fd3/b17f8/dsc01355-2.jpg 1600w,
+/static/ea03f9e2bdfe9236a562796bfccd2fd3/430a7/dsc01355-2.jpg 4898w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[we worship at strange altars]]></title><description><![CDATA[https://janiejaffe.itch.io/altars]]></description><link>https://www.janiejaffe.com/we-worship-at-strange-altars/</link><guid isPermaLink="false">https://www.janiejaffe.com/we-worship-at-strange-altars/</guid><pubDate>Wed, 10 Jan 2024 21:48:59 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://janiejaffe.itch.io/altars&quot;&gt;https://janiejaffe.itch.io/altars&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Paraesthesia]]></title><link>https://www.janiejaffe.com/paraesthesia/</link><guid isPermaLink="false">https://www.janiejaffe.com/paraesthesia/</guid><pubDate>Thu, 07 Dec 2023 20:39:28 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3e92ae3a1f86fc9e021c9efc52b6328e/9c5f4/png-image.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAf/aAAwDAQACEAMQAAABkSJFDQM4t//EABsQAAIBBQAAAAAAAAAAAAAAAAECEQADEBIh/9oACAEBAAEFArSjVWUUzCZ5j//EABgRAAMBAQAAAAAAAAAAAAAAAAABExEx/9oACAEDAQE/AZb1kkf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAE1H/2gAIAQIBAT8Bpij/xAAWEAEBAQAAAAAAAAAAAAAAAAAQEQH/2gAIAQEABj8Cusf/xAAYEAADAQEAAAAAAAAAAAAAAAAAAREhMf/aAAgBAQABPyGkwd6xrobRWD4PT//aAAwDAQACAAMAAAAQUw//xAAYEQEAAwEAAAAAAAAAAAAAAAABABEhMf/aAAgBAwEBPxA0ekCKuf/EABcRAQEBAQAAAAAAAAAAAAAAAAERADH/2gAIAQIBAT8QZgOanf/EABoQAQEBAQADAAAAAAAAAAAAAAERIQAxYaH/2gAIAQEAAT8QZnljsA6POqyfN6+iTK825ez3yY1zxzVVrO//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;png image&quot;
+        title=&quot;png image&quot;
+        src=&quot;/static/3e92ae3a1f86fc9e021c9efc52b6328e/4b190/png-image.jpg&quot;
+        srcset=&quot;/static/3e92ae3a1f86fc9e021c9efc52b6328e/e07e9/png-image.jpg 200w,
+/static/3e92ae3a1f86fc9e021c9efc52b6328e/066f9/png-image.jpg 400w,
+/static/3e92ae3a1f86fc9e021c9efc52b6328e/4b190/png-image.jpg 800w,
+/static/3e92ae3a1f86fc9e021c9efc52b6328e/e5166/png-image.jpg 1200w,
+/static/3e92ae3a1f86fc9e021c9efc52b6328e/b17f8/png-image.jpg 1600w,
+/static/3e92ae3a1f86fc9e021c9efc52b6328e/9c5f4/png-image.jpg 1806w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ade9a63d513041e41e1bc019ebc8ab38/d8b99/screenshot-2023-12-07-at-6.45.39-pm.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABYBAQEBAAAAAAAAAAAAAAAAAAEDBP/aAAwDAQACEAMQAAAB0TdNZUUL/wD/xAAYEAADAQEAAAAAAAAAAAAAAAABMUIAAv/aAAgBAQABBQIKhiq4X//EABkRAAMAAwAAAAAAAAAAAAAAAAACAwEhUf/aAAgBAwEBPwGUlVNmYT4f/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAIAQIBAT8BV//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABoQAAICAwAAAAAAAAAAAAAAAAARMXEBUWH/2gAIAQEAAT8h3HMMxbsisYks/9oADAMBAAIAAwAAABDr/wD/xAAXEQEBAQEAAAAAAAAAAAAAAAARAQCR/9oACAEDAQE/EBEroaHm/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAECAQE/EFtDf//EABoQAQADAQEBAAAAAAAAAAAAAAEAETFBIaH/2gAIAQEAAT8QS2ICKNy6CFYN8lOmCI3jnkslV9Q+xOnc/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;screenshot 2023 12 07 at 6 45 39 pm&quot;
+        title=&quot;screenshot 2023 12 07 at 6 45 39 pm&quot;
+        src=&quot;/static/ade9a63d513041e41e1bc019ebc8ab38/4b190/screenshot-2023-12-07-at-6.45.39-pm.jpg&quot;
+        srcset=&quot;/static/ade9a63d513041e41e1bc019ebc8ab38/e07e9/screenshot-2023-12-07-at-6.45.39-pm.jpg 200w,
+/static/ade9a63d513041e41e1bc019ebc8ab38/066f9/screenshot-2023-12-07-at-6.45.39-pm.jpg 400w,
+/static/ade9a63d513041e41e1bc019ebc8ab38/4b190/screenshot-2023-12-07-at-6.45.39-pm.jpg 800w,
+/static/ade9a63d513041e41e1bc019ebc8ab38/e5166/screenshot-2023-12-07-at-6.45.39-pm.jpg 1200w,
+/static/ade9a63d513041e41e1bc019ebc8ab38/b17f8/screenshot-2023-12-07-at-6.45.39-pm.jpg 1600w,
+/static/ade9a63d513041e41e1bc019ebc8ab38/d8b99/screenshot-2023-12-07-at-6.45.39-pm.jpg 2301w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4acc9ac9df35a0a041ac1c34a4fc1ed8/fcc1a/screenshot-2023-12-07-at-6.50.14-pm.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.49999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMCBf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAeBudkiB/8QAGRAAAgMBAAAAAAAAAAAAAAAAAAECECEy/9oACAEBAAEFAhLKjwf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwEn/8QAFxAAAwEAAAAAAAAAAAAAAAAAAAEQAv/aAAgBAQAGPwId3P/EABoQAQABBQAAAAAAAAAAAAAAAAEQADFRobH/2gAIAQEAAT8hb0SzidI7H//aAAwDAQACAAMAAAAQZA//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAWEQEBAQAAAAAAAAAAAAAAAAABERD/2gAIAQIBAT8QUbn/xAAcEAEAAQQDAAAAAAAAAAAAAAABEQAQIUExcYH/2gAIAQEAAT8QgtMC04GCSmu/bHNNANyWf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;screenshot 2023 12 07 at 6 50 14 pm&quot;
+        title=&quot;screenshot 2023 12 07 at 6 50 14 pm&quot;
+        src=&quot;/static/4acc9ac9df35a0a041ac1c34a4fc1ed8/4b190/screenshot-2023-12-07-at-6.50.14-pm.jpg&quot;
+        srcset=&quot;/static/4acc9ac9df35a0a041ac1c34a4fc1ed8/e07e9/screenshot-2023-12-07-at-6.50.14-pm.jpg 200w,
+/static/4acc9ac9df35a0a041ac1c34a4fc1ed8/066f9/screenshot-2023-12-07-at-6.50.14-pm.jpg 400w,
+/static/4acc9ac9df35a0a041ac1c34a4fc1ed8/4b190/screenshot-2023-12-07-at-6.50.14-pm.jpg 800w,
+/static/4acc9ac9df35a0a041ac1c34a4fc1ed8/e5166/screenshot-2023-12-07-at-6.50.14-pm.jpg 1200w,
+/static/4acc9ac9df35a0a041ac1c34a4fc1ed8/b17f8/screenshot-2023-12-07-at-6.50.14-pm.jpg 1600w,
+/static/4acc9ac9df35a0a041ac1c34a4fc1ed8/fcc1a/screenshot-2023-12-07-at-6.50.14-pm.jpg 2426w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1ecab29b0da49bf6aadbd5ca45c1433e/4d377/screenshot-2023-12-07-at-6.50.48-pm.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIDBAX/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAHOWYvNSmD/AP/EABwQAAICAgMAAAAAAAAAAAAAAAECAAMREhMhNP/aAAgBAQABBQJurdzjjYxPTYBA7Cf/xAAXEQEAAwAAAAAAAAAAAAAAAAAAERJB/9oACAEDAQE/AdhV/8QAFhEBAQEAAAAAAAAAAAAAAAAAABFB/9oACAECAQE/AcV//8QAGBAAAwEBAAAAAAAAAAAAAAAAAAERIYH/2gAIAQEABj8CcNLEM6Yz/8QAGxABAAICAwAAAAAAAAAAAAAAAQARIUExUWH/2gAIAQEAAT8hovLyBV3cEB0oe2Er1TOdWYHpQn//2gAMAwEAAgADAAAAEAjP/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAERIWH/2gAIAQMBAT8Qpo2Ej//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAgEBPxBZWk3/xAAbEAEBAQEAAwEAAAAAAAAAAAABESEAMUFhcf/aAAgBAQABPxArj7la+N5pQICa/eDP6Dq9cQYo/h0GMOPaDywe/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;screenshot 2023 12 07 at 6 50 48 pm&quot;
+        title=&quot;screenshot 2023 12 07 at 6 50 48 pm&quot;
+        src=&quot;/static/1ecab29b0da49bf6aadbd5ca45c1433e/4b190/screenshot-2023-12-07-at-6.50.48-pm.jpg&quot;
+        srcset=&quot;/static/1ecab29b0da49bf6aadbd5ca45c1433e/e07e9/screenshot-2023-12-07-at-6.50.48-pm.jpg 200w,
+/static/1ecab29b0da49bf6aadbd5ca45c1433e/066f9/screenshot-2023-12-07-at-6.50.48-pm.jpg 400w,
+/static/1ecab29b0da49bf6aadbd5ca45c1433e/4b190/screenshot-2023-12-07-at-6.50.48-pm.jpg 800w,
+/static/1ecab29b0da49bf6aadbd5ca45c1433e/e5166/screenshot-2023-12-07-at-6.50.48-pm.jpg 1200w,
+/static/1ecab29b0da49bf6aadbd5ca45c1433e/b17f8/screenshot-2023-12-07-at-6.50.48-pm.jpg 1600w,
+/static/1ecab29b0da49bf6aadbd5ca45c1433e/4d377/screenshot-2023-12-07-at-6.50.48-pm.jpg 2393w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9a0f24fbb9693de8158cdd4c71c97267/4a9b5/screenshot-2023-12-07-at-6.52.46-pm.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQL/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/9oADAMBAAIQAxAAAAGWrWodU5EP/8QAGxAAAgIDAQAAAAAAAAAAAAAAAQIDEgQRMiH/2gAIAQEAAQUCvoqLNH4kveP1CxK//8QAFhEAAwAAAAAAAAAAAAAAAAAAEBFB/9oACAEDAQE/AYx//8QAFhEAAwAAAAAAAAAAAAAAAAAAEBFB/9oACAECAQE/Aah//8QAGhAAAgMBAQAAAAAAAAAAAAAAAAERIVEQEv/aAAgBAQAGPwJe7WFCldc6f//EABsQAAMAAgMAAAAAAAAAAAAAAAABESExQVFh/9oACAEBAAE/IU7S8sMrz7BIEVdoxGxliXI//9oADAMBAAIAAwAAABDUL//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQMBAT8QxQGf/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAgEBPxB12h5f/8QAGxABAAMAAwEAAAAAAAAAAAAAAQARITFBUWH/2gAIAQEAAT8QTyhwC/ZYrC0LMgGmyzQ1hEruAVAtBx7Ey0EKdZP/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;screenshot 2023 12 07 at 6 52 46 pm&quot;
+        title=&quot;screenshot 2023 12 07 at 6 52 46 pm&quot;
+        src=&quot;/static/9a0f24fbb9693de8158cdd4c71c97267/4b190/screenshot-2023-12-07-at-6.52.46-pm.jpg&quot;
+        srcset=&quot;/static/9a0f24fbb9693de8158cdd4c71c97267/e07e9/screenshot-2023-12-07-at-6.52.46-pm.jpg 200w,
+/static/9a0f24fbb9693de8158cdd4c71c97267/066f9/screenshot-2023-12-07-at-6.52.46-pm.jpg 400w,
+/static/9a0f24fbb9693de8158cdd4c71c97267/4b190/screenshot-2023-12-07-at-6.52.46-pm.jpg 800w,
+/static/9a0f24fbb9693de8158cdd4c71c97267/e5166/screenshot-2023-12-07-at-6.52.46-pm.jpg 1200w,
+/static/9a0f24fbb9693de8158cdd4c71c97267/b17f8/screenshot-2023-12-07-at-6.52.46-pm.jpg 1600w,
+/static/9a0f24fbb9693de8158cdd4c71c97267/4a9b5/screenshot-2023-12-07-at-6.52.46-pm.jpg 2358w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/994eff884c30a73143a01e3175f32fe9/dd6df/screenshot-2023-12-07-at-6.52.06-pm.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABSTfmQZC4p//EABkQAAIDAQAAAAAAAAAAAAAAAAECAAMxEf/aAAgBAQABBQKHUKBawONs/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BR//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AVf/xAAYEAADAQEAAAAAAAAAAAAAAAAAAREQYf/aAAgBAQAGPwLFaXo8/8QAGhABAQEAAwEAAAAAAAAAAAAAAQAhETFBof/aAAgBAQABPyENMuofIa4GUEbi+qHL/9oADAMBAAIAAwAAABA3H//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxAdZv8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQEQ/9oACAECAQE/EAjn/8QAGxABAAMBAAMAAAAAAAAAAAAAAQARITFBYaH/2gAIAQEAAT8QbEcrYaCqmkbmh4O/Zawpt6iVFVsbEBrP/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;screenshot 2023 12 07 at 6 52 06 pm&quot;
+        title=&quot;screenshot 2023 12 07 at 6 52 06 pm&quot;
+        src=&quot;/static/994eff884c30a73143a01e3175f32fe9/4b190/screenshot-2023-12-07-at-6.52.06-pm.jpg&quot;
+        srcset=&quot;/static/994eff884c30a73143a01e3175f32fe9/e07e9/screenshot-2023-12-07-at-6.52.06-pm.jpg 200w,
+/static/994eff884c30a73143a01e3175f32fe9/066f9/screenshot-2023-12-07-at-6.52.06-pm.jpg 400w,
+/static/994eff884c30a73143a01e3175f32fe9/4b190/screenshot-2023-12-07-at-6.52.06-pm.jpg 800w,
+/static/994eff884c30a73143a01e3175f32fe9/e5166/screenshot-2023-12-07-at-6.52.06-pm.jpg 1200w,
+/static/994eff884c30a73143a01e3175f32fe9/b17f8/screenshot-2023-12-07-at-6.52.06-pm.jpg 1600w,
+/static/994eff884c30a73143a01e3175f32fe9/dd6df/screenshot-2023-12-07-at-6.52.06-pm.jpg 2413w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Carsick - Youbet]]></title><link>https://www.janiejaffe.com/carsick-youbet/</link><guid isPermaLink="false">https://www.janiejaffe.com/carsick-youbet/</guid><pubDate>Sat, 18 Nov 2023 21:28:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2b83fea12596cc32d05a257c3e088cc1/8579d/screenshot-2024-09-17-at-4.27.24-pm.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAADTklEQVQ4y12T3U9bdRjHD9DTc07fBTYm6TQTBoPSSmtbelr6BqUr0K6l0OFm64a1C6EVF7dsE3GZoFmWGZ1u8S1ZNPHtRkLCjVliYuLljPcm3rjsysR44x/wMefQIuziyXO+z/M7z+v3Eeyigs2oYBVlbEaZFm7ZrEZ5F++z/y/yAW0RZYRO2Uy3bEHTmnTJFroVq647ZYuuW9LydynWA+9bPodkQtDAYZNdD6LJIZNNxy3boaZtz6/YDmBNDmtYtvCUZEbQWlLaDFgNMnajgrndiMUgYWoXddxq78nv/dimjUvcHZEQHfUydPRZIp5RvMcHGeh14uzspv9ppx7cLpkwawk6jM05K5jajSjtoo615JpoBWnvhFwsRmkyxckxlXQwRKapp4NjhIfdqMNuAgMn8B47rv8oCh0sRIIUIz5EwYBdai5PbAbMx+OUUpNM+AIUkhMsTKXIhiNM+vxUczNUp1PkIuOsnl4kNuLGbFC4Uz/LZiWPIAg4ZNMeI7SEQjGZIOIaYTYcZj6RJDnqJauGibu9bNSXeTU7w1wszurpBQrjUZYLeb56s85Pt8/jOuJAapP0Kvdok3rBz5QvwLjLw1w8ztjACRKjPs5ns9xafo25WJJGaZ7KySnOJuJcyBf4/Po1fri9hvuoE6nZ9m5ACSHtDzLQ4yTtDzETUpkOhQi73MxPTrBRu4A66GI2FGLCF2S9eo6PVyr8eLPB11fK2E12rKK017I+w1k1Ql9PL+MeD/6+QdRhF4upFLV8nvx4lExAZdIzxpmIyoOrZX7fucuf2zd4vHOVkcEhrG0iXYpFJ7UWWPD2D3AqGKUcn2Wo9xmOdfXoG82pKpEhF6X4KX5+4xL/3D3HXzsb/PbLdzzcvsfDb97l+b5+OkUzR8wOneA6sTPBEJ9cW+PF5BRLmQLXKxe5f/EDKtEZMj4/hdgUD94+A59mePx9g0dbm/y6fZ/1WhWHQdKvRgukVagTe6VYoj5fIhOIcOfyJb68scHW5ke881KZjD/AUnaOz67U+PtekX+/rfLoiwabr7yM97l+zNo1PcnDtcUGrxcr1EuLfLh6maV0mmIiSiEaoxiNU8vleK++wtb7b/HH1i3Wq2XMHbJ+bq2q9i/lP3PJ15U2f08oAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;screenshot 2024 09 17 at 4 27 24 pm&quot;
+        title=&quot;screenshot 2024 09 17 at 4 27 24 pm&quot;
+        src=&quot;/static/2b83fea12596cc32d05a257c3e088cc1/5a190/screenshot-2024-09-17-at-4.27.24-pm.png&quot;
+        srcset=&quot;/static/2b83fea12596cc32d05a257c3e088cc1/772e8/screenshot-2024-09-17-at-4.27.24-pm.png 200w,
+/static/2b83fea12596cc32d05a257c3e088cc1/e17e5/screenshot-2024-09-17-at-4.27.24-pm.png 400w,
+/static/2b83fea12596cc32d05a257c3e088cc1/5a190/screenshot-2024-09-17-at-4.27.24-pm.png 800w,
+/static/2b83fea12596cc32d05a257c3e088cc1/c1b63/screenshot-2024-09-17-at-4.27.24-pm.png 1200w,
+/static/2b83fea12596cc32d05a257c3e088cc1/29007/screenshot-2024-09-17-at-4.27.24-pm.png 1600w,
+/static/2b83fea12596cc32d05a257c3e088cc1/8579d/screenshot-2024-09-17-at-4.27.24-pm.png 2412w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/05a3d24a4e4920082d00f5b20c9cf1e0/97a96/screenshot-2024-09-17-at-4.27.37-pm.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAD0ElEQVQ4yz2R22+TBRjG++cIrtDTurbfud+3dmu3tsNu64m1/fr1vJYdYWNtNwJTxjAgssgukGVGB4SFgJEbEhNNBCHxQiBELjR6ZeK9F974M9sSL96r53mfPO/vtc24dE73CaSO+ckcD5A7LlCwi0zZBfInRBYFg63xUyxrYUoOmcx7gUO9YD/y5fuOvJljPi4HEtjaTpWCQ6IbCrNXGmdJ1ck7BCy3jOWS2a9meNEx+XGlyNPZPBujo5Sc0qFWckmYTomCU6R8UmZDjWPLvy+znUryU7fKmwt1vls0aQk6JbeM6RLo6EPsmWk+zyXZK06yOjhMwSlRcsnknSJTDpHcSQHLpfCwnMdmnlS5b2Z5vljhbvFgcZJZ2cDyKFhehTOywXZ2kt1ihmUjhOkRKbpkLI9M0SlSdIgUHCLpPh81t3jQUKLskpjxB+kZYa4mEpgegapPpu7XaEpBygGFtmeQVWeK6/4G8/4oZa9CxaNy2u4l3eeh6Qiz5a9jO4CatwfInxAwD1h4ZKoD8mFgU1SZUXXmjEG6YpRXwzf4Y+Ipi2KMgs9H2R1g22jxILbFs7EnvM0+wVawS0eQ3TKVfoX6gEYjoDMt6bQknbngECuRKCvRYW6oGXbkWa4Gi2wMZdkZ6fFy/BpX5AKW26Ds1LFZDoWqW6XqUah5VaYFnRnZYE4LMW+EWQiGOatF+Fir8CC8zv3QJ7xNveLl2DdsGg1+GPsSyyWS9wiU3Ro2y6lQ86hU+xUaAxotUWdWHWTBCHEuGGHWM8oFf5Fd4zJfBW9yW9/iXe5f/jT/5tHYDveG7lDxClS9GtV+4yiw3q8entoWDOaVQc4NRlgKR2j1h1l0J+kNpNiUZ9iP3eb11Fv+ar7ji+gma/4K7YEo9YBG1adR6VexVdwaTa9MOxDkjKgzF1BZVnVWw0PM+AwqdpULvipvir/DHNCG30rP6ESGKftE5pQwC4rBgqDRGAhiq7k0zkihw4bd0Ah7yx32O1125+dpeVUse5jt0Ie8SH0LC/9AB15b37Mx8QHr8QRLxjDnVIPlgELDq2JrBSI8vn6T29ksD60iv9y8xs+XL/Lq6iV2k0k+TST4SEtwS2rwbOIzfi0/4nl6jfXRGN1ojCV96PCJDf8BNhnb+cQkO4tnuVtvsF0qcy89wddmjnu5FHcqVfbb01w3TbqJFJtJk2vjNW5lp7mSmWI9e5pL6Rxrk2nWJtKsjU9iW46W6cVq9OJ1LiabnB+x6MQqrIyUuTjepBOvsXqqwepYje5YjU6ixvl4hW68Si92MHV68dr/8x/Fjn3p2fotjwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;screenshot 2024 09 17 at 4 27 37 pm&quot;
+        title=&quot;screenshot 2024 09 17 at 4 27 37 pm&quot;
+        src=&quot;/static/05a3d24a4e4920082d00f5b20c9cf1e0/5a190/screenshot-2024-09-17-at-4.27.37-pm.png&quot;
+        srcset=&quot;/static/05a3d24a4e4920082d00f5b20c9cf1e0/772e8/screenshot-2024-09-17-at-4.27.37-pm.png 200w,
+/static/05a3d24a4e4920082d00f5b20c9cf1e0/e17e5/screenshot-2024-09-17-at-4.27.37-pm.png 400w,
+/static/05a3d24a4e4920082d00f5b20c9cf1e0/5a190/screenshot-2024-09-17-at-4.27.37-pm.png 800w,
+/static/05a3d24a4e4920082d00f5b20c9cf1e0/c1b63/screenshot-2024-09-17-at-4.27.37-pm.png 1200w,
+/static/05a3d24a4e4920082d00f5b20c9cf1e0/29007/screenshot-2024-09-17-at-4.27.37-pm.png 1600w,
+/static/05a3d24a4e4920082d00f5b20c9cf1e0/97a96/screenshot-2024-09-17-at-4.27.37-pm.png 2400w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9ac08b695ddc13d59e4a7db8c65975d0/63908/screenshot-2024-09-17-at-4.27.03-pm.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAELElEQVQ4ywXBC1DTBQDA4b+FiZeWL6QSH8GhQZxXvA+VDYjcxjZlPEWYYAiCDNgBG3MCLgKVpyiCD+YTJM98JXT4CKMHovjquAQOFPQSU/PQXqBs+/V9gtFFTZxjCFFzRcS9H4F0pppg/wZCP60g1lHNflEVdxO+4ay0lmzndLJdU5G/G06I/Up8piwlwUlCxGwvIqd74/mGF8K+4HIKl25E66EmeFYUwR71hPqdIGxOCpkf5XEtpZ0npj7u53Wy7ZMiMhZnoZodx2fTFARMDyLNJYas+Qqy5ksJtFuBcDrhFN/FH8EcVIzSWUeIt5mwBQa0S7KpWlZK5co9XMvt5NWeP2hb3Uymew7RjgnI54YhfkdGjaiIeh8dFW6pKO3kCNfyujgZf56YhbmsWmQk1a2ImPmpNIXU8yC9g871rTzL6aI/5TLN0gb2SeuIdkhAND2IAEcxZaItVHlrKVmSjPLNMIQ7BT1o3HPxnacn0q2MHb7F1K6s40X1CLRa4BRg/pdHJf20KJupFe8i3iUN2SwV0jkKivxzqPHLo9Q9hXA7BcKNgttU+ptY7lJC6DwjX4cf5VHpALYWC7ZbYGuxYTtsYaSwl5dbhxnW3STZNROVo5qAyYHo/DLYu6KAHUvTibBTIgzUPubKhjaSXA0oFmpI/jCDwdJeaAfbDxOMfTXK6+0WRnOHmNg7yrCpj+RFGchmxhDqIGe/rIy9gQVUe2qJtluFMNL0kk5NF3KvBmQL84h3Ws/dbb/BdbC2W7AcG2d85ysea+7xetcQjeGHUc1JQjpDRZJHIi1rDnEwqJh6Xz1rJkci9O98yImIg0Q6paNatBGNp57+L29hOfMCrgK3gbYJLLuHeV7ZR46HjmB7KYpZUSQ6f4HeR4PJKw2921okk5YjdOiusM5VQrCDhAjnjRSFlDJ+9BnPq3t52fwUS5cV67n/uLf5Rw6urkMyTYl0mpIgezEfT3Jmgd17eM1cgvuUxfi9HYDQUzdIoTgf0QcyRHM3UB5aDl0wcf4fRhufMFI1SKf+Cia/YlT2cax1iCfVKQXVG1EsE5bh+5YnQVP9iZodi1FSg/C7+S9aN11A670J2YzPqZDWMd4xhu0uMAy29lf05XdzYV09XVv1PGg28vC4gevb86gVJ6KevJrEqWqqoxsxxO5H+MVwm27NJYp98lGIDfx8bJS/v/2Tse4x6LNi+96K7XgH3CiE4Ty4VwhDJnhSBg/LGSrbxKHYA9RpL5It34lwJvYEZtVJIvzNrJI3UmNoo/v0fa4euUNr4WVu5TfDzS1Ye3VYfs3F2qPD2lfCxP0K6N/G06YjNOVcoizpNFpZLYLJNY3swEMYJY3olleTGVDC5rVmKnPPU6A6wMC+YhjQYe0xYOvVYhs0YntcBSPlvDjbwFndT+zOukjpunMYFfX8DwSA8kcibRC+AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;screenshot 2024 09 17 at 4 27 03 pm&quot;
+        title=&quot;screenshot 2024 09 17 at 4 27 03 pm&quot;
+        src=&quot;/static/9ac08b695ddc13d59e4a7db8c65975d0/5a190/screenshot-2024-09-17-at-4.27.03-pm.png&quot;
+        srcset=&quot;/static/9ac08b695ddc13d59e4a7db8c65975d0/772e8/screenshot-2024-09-17-at-4.27.03-pm.png 200w,
+/static/9ac08b695ddc13d59e4a7db8c65975d0/e17e5/screenshot-2024-09-17-at-4.27.03-pm.png 400w,
+/static/9ac08b695ddc13d59e4a7db8c65975d0/5a190/screenshot-2024-09-17-at-4.27.03-pm.png 800w,
+/static/9ac08b695ddc13d59e4a7db8c65975d0/c1b63/screenshot-2024-09-17-at-4.27.03-pm.png 1200w,
+/static/9ac08b695ddc13d59e4a7db8c65975d0/29007/screenshot-2024-09-17-at-4.27.03-pm.png 1600w,
+/static/9ac08b695ddc13d59e4a7db8c65975d0/63908/screenshot-2024-09-17-at-4.27.03-pm.png 2410w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Channels]]></title><description><![CDATA[https://janiejaffe.itch.io/channels]]></description><link>https://www.janiejaffe.com/channels/</link><guid isPermaLink="false">https://www.janiejaffe.com/channels/</guid><pubDate>Fri, 03 Nov 2023 20:41:30 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://janiejaffe.itch.io/channels&quot;&gt;https://janiejaffe.itch.io/channels&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Fever Dream]]></title><link>https://www.janiejaffe.com/fever-dream/</link><guid isPermaLink="false">https://www.janiejaffe.com/fever-dream/</guid><pubDate>Sat, 17 Jun 2023 19:57:48 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/88dfbd74d87cd011dbad3c4b57e8d455/ad68d/img_9279.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 160%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAgABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAABBf/EABcBAQEBAQAAAAAAAAAAAAAAAAADAQL/2gAMAwEAAhADEAAAAeGpCaWPOjiafJ8ojTf/xAAcEAACAgIDAAAAAAAAAAAAAAAAAQIDERIQE0H/2gAIAQEAAQUCwQobNIIqRXiRqjYU0n2ceH//xAAZEQEAAgMAAAAAAAAAAAAAAAAAARICERP/2gAIAQMBAT8BrpVOTpL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8BzEVX/8QAGxAAAQQDAAAAAAAAAAAAAAAAAAEQESEgIjH/2gAIAQEABj8CNqOClvOP/8QAHBAAAwEAAgMAAAAAAAAAAAAAAAERIUFREDFh/9oACAEBAAE/IUzcSNDAWfQvlvZpiPqkeBKrbvtCmtz6OnS0b8P/2gAMAwEAAgADAAAAEDAVwv/EABYRAQEBAAAAAAAAAAAAAAAAABEBEP/aAAgBAwEBPxCoGWrh/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERUf/aAAgBAgEBPxBEK0TFH//EAB0QAQEBAAMAAwEAAAAAAAAAAAERACExUUFhscH/2gAIAQEAAT8QAIV6AwVjze8FzM7Zf3WhHvxgRk37C96qfrQ16gPCf3UBJifLyZnS1bua4I9Xncu//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;img 9279&quot;
+        title=&quot;img 9279&quot;
+        src=&quot;/static/88dfbd74d87cd011dbad3c4b57e8d455/4b190/img_9279.jpg&quot;
+        srcset=&quot;/static/88dfbd74d87cd011dbad3c4b57e8d455/e07e9/img_9279.jpg 200w,
+/static/88dfbd74d87cd011dbad3c4b57e8d455/066f9/img_9279.jpg 400w,
+/static/88dfbd74d87cd011dbad3c4b57e8d455/4b190/img_9279.jpg 800w,
+/static/88dfbd74d87cd011dbad3c4b57e8d455/ad68d/img_9279.jpg 1170w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Critical Mass]]></title><link>https://www.janiejaffe.com/critical-mass/</link><guid isPermaLink="false">https://www.janiejaffe.com/critical-mass/</guid><pubDate>Sat, 15 Apr 2023 19:51:26 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e9516f0fd89f8023cff009a1a2af9a64/ad68d/img_5363-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 99.50000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAQBAgP/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwL/2gAMAwEAAhADEAAAAbIOsVKZRqao1DMgD//EABoQAAMBAAMAAAAAAAAAAAAAAAECAwAEEjL/2gAIAQEAAQUCsCBXsuWmryEZW86SAl7My7//xAAZEQABBQAAAAAAAAAAAAAAAAAAAxASIUH/2gAIAQMBAT8BTmWa3//EABoRAAEFAQAAAAAAAAAAAAAAAAABAgMQETH/2gAIAQIBAT8BjbnTBK//xAAfEAACAQMFAQAAAAAAAAAAAAAAEQECIUEQEhMxUZH/2gAIAQEABj8CdKXkjjowTTH0e23pguccpRp//8QAGxAAAwEAAwEAAAAAAAAAAAAAAAEhETFBUaH/2gAIAQEAAT8hRNiRhBltdM1T1pZrKkfB2n7pphPQxVwmeFGpTT//2gAMAwEAAgADAAAAED8nPf/EABgRAQEBAQEAAAAAAAAAAAAAAAERABAx/9oACAEDAQE/EEArDNtw+Of/xAAYEQEAAwEAAAAAAAAAAAAAAAABABARIf/aAAgBAgEBPxBiYJid1//EABwQAQADAAMBAQAAAAAAAAAAAAEAESExQVFhgf/aAAgBAQABPxA8jbRLOqYLrrO1e/nUNm00FnsuevwPDZ9m7aEEdPtaMDXrlw4soG9uQZg8zg42Kuf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;img 5363 2&quot;
+        title=&quot;img 5363 2&quot;
+        src=&quot;/static/e9516f0fd89f8023cff009a1a2af9a64/4b190/img_5363-2.jpg&quot;
+        srcset=&quot;/static/e9516f0fd89f8023cff009a1a2af9a64/e07e9/img_5363-2.jpg 200w,
+/static/e9516f0fd89f8023cff009a1a2af9a64/066f9/img_5363-2.jpg 400w,
+/static/e9516f0fd89f8023cff009a1a2af9a64/4b190/img_5363-2.jpg 800w,
+/static/e9516f0fd89f8023cff009a1a2af9a64/ad68d/img_5363-2.jpg 1170w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Yazeba's Bed and Breakfast]]></title><description><![CDATA[b﻿uilt drag and drop game systems, character sheets, and more.]]></description><link>https://www.janiejaffe.com/yazebas-bed-and-breakfast/</link><guid isPermaLink="false">https://www.janiejaffe.com/yazebas-bed-and-breakfast/</guid><pubDate>Wed, 01 Mar 2023 22:05:01 GMT</pubDate><content:encoded>&lt;p&gt;b﻿uilt drag and drop game systems, character sheets, and more.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Grapenut NYC Show]]></title><link>https://www.janiejaffe.com/grapenut-nyc-show/</link><guid isPermaLink="false">https://www.janiejaffe.com/grapenut-nyc-show/</guid><pubDate>Sat, 10 Dec 2022 19:46:53 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3ee92e059f4b55a01b37383f1d3091c6/3c492/screenshot-2024-09-17-at-2.48.22-pm.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 72%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAADtklEQVQ4y02U20/TBxzFfw8zUsrvVgSLIEUQbGBgILoNnERE8D6QRYYIA6FAEWy5SaEXKG2hBQqFChWqwrjLLsY5WeIWk2UPW7KHPWwvu7wt+we2pz0s+Szi4vbwzfm+nM95OkcwHNSjqjI6ncqBpETUfQpxkpY4WSQ2ToOsiIiKSJyoRdUpaEQtoiyhqArSrsqoqoKiyCiyhKDoZGQ5jsR4mXhRJn6viDExnSPxyRRnFpClHiI34RBFxnziXxPJSzuMfl8CWk0MunjdbsDLEBFFpyDskxVS5P2kaQycTi6h4Y33cFfcZOxdC6G6HvyXzTiqzDQVlOOpNmMqOkel8RjXT5ZRW3yGoxmZ5KSnk5iYwJ69exCM+gzSNUbqCiyM3ZjinnWW8epuljqCzN+4zUf908x0DjN0qZnP5u7TXFiCv7GdrYlZvI2thG1Opu0u2qprqTpbhlCcYaQs9RTRwWc8uL3GTOski93TRLvHWXf6edDj5eHYHUKmbqIDXla9QZa84ywHppjqHSDqnyA46MDV3slQhxWhsvAi9fk1uOrWiIw+Zd2zwqZvgW33PFvuMFu+GaIWF49mFnFU1hLpcfDBeIjAzW4WR8eZtNkI2p2MDgxib21HuF7uwWb9kpDtC1b963y68IgV+wLrvrvc7Rxiwz/HvUEP6/4ZokNewr0OVoIhJrv6iPjGGLF2MGyx4LhlpbehAaGl+CQ281O+e/43X29/xdLIHI/nn7AxscR2eIn10Vk2piNEnD42QxEWRka5OzJGdGKakNvDpNuLz+7A09tHy7WrCEWHU3kru4LPd/7gp29/Zif6MZ9EdlgLrLEWWCbU5WBxeAJXgxlfm4Wwy0Pf1WtERgI4TWb66xqwNjbzdq4RQ0oyQqpejxiTSG/PE37/9S8eLz5iybtKxHmfoGWYiH0Ub72J0IAXW8U7zNvc1J8/R0NpOVUlpRj0CRiSkojRatBKEkKe4SD7JYWEhDfZfPIb3zz7nvuBO8zZlwla3Ux1eRl638RgtYm2SxWcz87haEYWWm0MkiihlUS0UtzL5qgyQs3pGqYnNkhLTqGyLciPv/zJ9sI2k/1hnK0emk5VcKWwlJwUA8n6JPbGapAkGUVVkVXlv9opCrIiI1SXNVFXZeby8Txyso4xtvwDD5efM9zi5taVLs7kniD9gIEYbSyKLO72+YVR3oW8UOl/v4xwPDWdC5nZlGe/zonMLK6ctTDs+pDGi+3kHylE1smIkrg7IC9M0r+AV6dKr8CKIvEP+zQuDJq+GmEAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;screenshot 2024 09 17 at 2 48 22 pm&quot;
+        title=&quot;screenshot 2024 09 17 at 2 48 22 pm&quot;
+        src=&quot;/static/3ee92e059f4b55a01b37383f1d3091c6/5a190/screenshot-2024-09-17-at-2.48.22-pm.png&quot;
+        srcset=&quot;/static/3ee92e059f4b55a01b37383f1d3091c6/772e8/screenshot-2024-09-17-at-2.48.22-pm.png 200w,
+/static/3ee92e059f4b55a01b37383f1d3091c6/e17e5/screenshot-2024-09-17-at-2.48.22-pm.png 400w,
+/static/3ee92e059f4b55a01b37383f1d3091c6/5a190/screenshot-2024-09-17-at-2.48.22-pm.png 800w,
+/static/3ee92e059f4b55a01b37383f1d3091c6/c1b63/screenshot-2024-09-17-at-2.48.22-pm.png 1200w,
+/static/3ee92e059f4b55a01b37383f1d3091c6/3c492/screenshot-2024-09-17-at-2.48.22-pm.png 1300w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8c5c1d27eabb77d485947ebe2b7852e2/71b12/screenshot-2024-09-17-at-2.50.19-pm.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 72%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAAD6ElEQVQ4ywXBfTDWBwDA8d8fu5NrqzyPPGWru63dcvOy64XydFNcuSfZliS5SU5WGnrRUK2yWq0MsZaeaPQyPLUHD56shyESOkNeilD0pKtT0oMMj9/v+e7zEeQ2MmbazMTZ6gs0c/s44ZXBpws+Y5HVYvQ2r3kcCg0GqBmFjO9MqBxS+XFhPg1fitSqXnBH1U+1TzcF65/ws38bgq3Mjg/k1oQLwTxygf1OkbhaOeI8x4kjM47z70fT1O8XKY2dID8E4j305M/t5OHaCeo8X3FrwxC3Nnah9WvnVEgpgkyuYLbcmmOCmp4loD/URIxDJOtl/uy03Y/aqYlMxy5ynKY4XGCh9pqJ8hVvKAodoeqXQZ6W/Yc27jbnInM4u+8qglwmRyGT4WXtyXnrcv7e+pzLYbcJmh3Cifl/cHZZLSWLXlHpC5oKkYbTU5SEvaM1T2TyJZiNErpjBjL3ZpF54BqCncyOefIPcX7fHm+rRXz9niebbLcRM/M0dfNM1G6CEi+JjFKRfwxmarxNdKdLGC9L9Ka9pfLXAa4duEFu3BWSdl9AUNjY4Tzrc3zmbMBfEUiAwp8AOxWpM9JoWzzNg30ixRqRlD6JZrWZiuhx7h0ep2zvG0p2DHBX/ZrEnUUkR6mJDjqJ4DB7IaFWW8n8pIzIZWkEK4KIWhCOetZlHjpBc6GFui64OWCh+cAIFZEm3twUefVkks6OMe7+OUSMVzlhnslsUx1EyHIsI29BER0ukO3TQoh9GJH2UZySH6dyZRP3j05SfPwtOp1EXeIoheuMdCSYoB9Gn4+h3jfM9mNvOW3oIeGQHiFuOdS7S7zcLTKYJHFoaTIRc08Qu+IqqaoimlP60W6sRevaS9FXPeR804xuew9P1SZ08V38FNjK0vhp4i1wZdCCsE5lJnbNNPpdZu53gj7iGdHKF/wQMEiKz1O0W9q4Gd5Gul8DV33vkBdSTU74XS76VXFxVyPthtec+b2DqKZh1KMgaOabSXeXyF8tkZM4TW6CxDnlFJfWvqNgjYlSjyGqVxmp8hxA722k3LeDEp9Obnh3Uf2bkWePhslLuU7ckRaOaswIzfYS9xQiTR+L9C6BxoMW2n1Fupygxw2euEKfKzx2g8croEcJD5ZC/24LUiu0pIyRvOcv1GEGApXFCFWrJXSbRbJXj5MjG6LeZYKaxClqlGMUu02gUZopWDVGndJIi3srjZ5tdMeMY74HvdeHyQ6o4nzEJRJ2JrHFJxahxNnMhc0SGXtAs2OYG3YvKVwvkrt5BN2SMbTLJ8n2GKbCo52GlY3Uq1roOzsFbdDd0E96cCYXtmVx5ts0vg84yf8pXvzxZ9wTQAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;screenshot 2024 09 17 at 2 50 19 pm&quot;
+        title=&quot;screenshot 2024 09 17 at 2 50 19 pm&quot;
+        src=&quot;/static/8c5c1d27eabb77d485947ebe2b7852e2/5a190/screenshot-2024-09-17-at-2.50.19-pm.png&quot;
+        srcset=&quot;/static/8c5c1d27eabb77d485947ebe2b7852e2/772e8/screenshot-2024-09-17-at-2.50.19-pm.png 200w,
+/static/8c5c1d27eabb77d485947ebe2b7852e2/e17e5/screenshot-2024-09-17-at-2.50.19-pm.png 400w,
+/static/8c5c1d27eabb77d485947ebe2b7852e2/5a190/screenshot-2024-09-17-at-2.50.19-pm.png 800w,
+/static/8c5c1d27eabb77d485947ebe2b7852e2/c1b63/screenshot-2024-09-17-at-2.50.19-pm.png 1200w,
+/static/8c5c1d27eabb77d485947ebe2b7852e2/71b12/screenshot-2024-09-17-at-2.50.19-pm.png 1308w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Blades in the Dark]]></title><description><![CDATA[d﻿eveloped step by step character creation tools and sheets.]]></description><link>https://www.janiejaffe.com/blades-in-the-dark/</link><guid isPermaLink="false">https://www.janiejaffe.com/blades-in-the-dark/</guid><pubDate>Tue, 01 Nov 2022 21:07:53 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a9ecdb18208bdff5183c2b3762d9ba73/60708/screen-shot-2022-06-24-at-2.38.15-pm.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.00000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAAC1UlEQVQozx2SWU9iBwCF73vVEAUEVPZNWQS87Cggd9hkgoAIMqLSmQDCSCIKLlNLi05sWu0knaSZpD/2a+ThPJyXk++cHGFFa8Vkc6E1mFmQLTEvkzMvU6BclGNSqTCq1OgUCtwmM0Gniw2dnvDmJvmdOD6rDZtmBbNaw4p8mSXZEsJ2OMrD+IbJ7R3FZBKzUolLr8et1+M1mXBqtQTsdlrlMt36EZ1anR2Ph5/ffK1GKR4ntuHAZzDg1ekRzIuL6Obm0C0skPb7ES0WNlZWcayt4dBqEe122vU6t70+g9Mz+s0mh9ksoQ0Hg9NTeo0GB6kUO04XQYsFwaHR4LdY8BqNpESR/eQuia0tSpJEs1Ti4fKS5y9f+HU4ZHJ1xf3FBb9fXdGqVAg7nXw6qDI4OSHtDxCy2RCSHg/He3tU02lq2Ry/DAbcff7Mnw8PPI6u+fH6yte7OybXQ749PTEdj/ltNOL18YlMJEJFkhi32xRiMSLr6wiNbI7Wfmm2TzWd4abXmwVOxyPG511+vLzw78tfvD498v35eRY26vf55/kP3icSZMJh7nt9apkMMYcToZqSaOTytA9rSIEA3UaDUbfL9I1iOuW/b3/TO2sRDW3jdmzSKJUZdztcdzr0jo+JOJ1ctlocFwrsuFwI5WSKN8qP5QpH+TwnxX1uzs+57fdnm02Gl9SKJeRLauZ+klHM5ug2m5yVSny9vScTCnMgSbSrVeJuN0IlFqImSbPareI+u1tbHGay1HN5TstlDrMZkqEoarVpptxumt1AkLL0jsnwmsL2NpIo0qlWyYgiQinqJ+7x8s7nIReJEHU6+ZDf41PlgI+VMhcfGuwl0yhVVhblBtbN63jsDoIekWahQNLrJWCxcpTJzo4v+FxeRI8Pn3EV0eXCa7GSDkcoJJJkI2HeJ+LEA0EsBhM6zRphj5dcLEY+kURvdCBXaplXLKNaVWFVLPM/e76T5TgYNisAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;screen shot 2022 06 24 at 2 38 15 pm&quot;
+        title=&quot;screen shot 2022 06 24 at 2 38 15 pm&quot;
+        src=&quot;/static/a9ecdb18208bdff5183c2b3762d9ba73/5a190/screen-shot-2022-06-24-at-2.38.15-pm.png&quot;
+        srcset=&quot;/static/a9ecdb18208bdff5183c2b3762d9ba73/772e8/screen-shot-2022-06-24-at-2.38.15-pm.png 200w,
+/static/a9ecdb18208bdff5183c2b3762d9ba73/e17e5/screen-shot-2022-06-24-at-2.38.15-pm.png 400w,
+/static/a9ecdb18208bdff5183c2b3762d9ba73/5a190/screen-shot-2022-06-24-at-2.38.15-pm.png 800w,
+/static/a9ecdb18208bdff5183c2b3762d9ba73/c1b63/screen-shot-2022-06-24-at-2.38.15-pm.png 1200w,
+/static/a9ecdb18208bdff5183c2b3762d9ba73/29007/screen-shot-2022-06-24-at-2.38.15-pm.png 1600w,
+/static/a9ecdb18208bdff5183c2b3762d9ba73/60708/screen-shot-2022-06-24-at-2.38.15-pm.png 2872w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/54f1dcec319b7fd24563e30593f31ad9/cf8f8/screen-shot-2022-09-20-at-5.05.19-pm.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 71.00000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAACTElEQVQ4y4WTy2/TQBDG9zX7cGznZadJmjhJ3TR9qQhVQpxa9YIqBBeKhNTCBQFC4v8/f2jHcRMkEIfPs2vN/nZeK5RSEEL8RRJeS6RGQkvJe8F2z2e7l1Ky2CfPc4QQkCQJkhCQZSmcc5BCQCsFs5VWEs5oOGNgjW7+650aqILo9Xrodrvo5l3kUf0hFDm+LR6yWoN0A/DWwTsHay1DyWhYIngyUFJBKQ0RP7wQCh3vcDorsJkOcbmaIvHuH+XYyWiN1LsdUGsDYwhCKhwPM/x8f48Pt7d4eH2N9biP3rBEWRQoigKj0QHKssRgMESW5TDGMNAawykrvQ8UEnU5wK/PP/Dt8Su+3L/D+XyC8XyJ6azCrFphWB6wRuMpprMFitGYU46px+bqBtimLDDtdfH09hO+Pzzh490bVEUPZVmgPjpGfXyCNAlIO8m2URKkFcNST9zAGNwzMIqUxGQ8wWq5wiDPsF5WuLu5wcurK7y4vGB7dXGB1WKBZVWhXlToBAdPbYRbYKTHovIc7RV8MjnE9fUrnGzOGp2cYbM5x+npOY7qNep6jeBDc74FtoWVe0Pbrvv9AVZHNQ4P55hXC8zmFUYHYwyLEkUxQlGOeIy8MdBKt0ACEf0B/O+oECHzhAEJeKOREO2AERbFHRKCQ48vhcg2Q2sby5nEQbbENvrFcfHRxxjuAU8LPTubZ2BIEngfQPGZETGkhcaLjDZcNyLDas4TRy6c82ihMcpo47vm9+0IoZW1IBtgbAC5BM5apJ2ALE2QZwlnZa3Db3MRPVHjCOD/AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;screen shot 2022 09 20 at 5 05 19 pm&quot;
+        title=&quot;screen shot 2022 09 20 at 5 05 19 pm&quot;
+        src=&quot;/static/54f1dcec319b7fd24563e30593f31ad9/5a190/screen-shot-2022-09-20-at-5.05.19-pm.png&quot;
+        srcset=&quot;/static/54f1dcec319b7fd24563e30593f31ad9/772e8/screen-shot-2022-09-20-at-5.05.19-pm.png 200w,
+/static/54f1dcec319b7fd24563e30593f31ad9/e17e5/screen-shot-2022-09-20-at-5.05.19-pm.png 400w,
+/static/54f1dcec319b7fd24563e30593f31ad9/5a190/screen-shot-2022-09-20-at-5.05.19-pm.png 800w,
+/static/54f1dcec319b7fd24563e30593f31ad9/c1b63/screen-shot-2022-09-20-at-5.05.19-pm.png 1200w,
+/static/54f1dcec319b7fd24563e30593f31ad9/29007/screen-shot-2022-09-20-at-5.05.19-pm.png 1600w,
+/static/54f1dcec319b7fd24563e30593f31ad9/cf8f8/screen-shot-2022-09-20-at-5.05.19-pm.png 2234w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1b4ea360be2a25af0c72eef8ae67563c/ae28e/screen-shot-2022-07-20-at-4.32.23-pm.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 64.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAADGElEQVQ4yyWT22/bZBiHfVFBm/gQx7FzcOLYcezEhyTOOU2apbTqujZb17GVlY6tHVq7mwqQGAeBQNwxAeJfflDMxU/6br5Hz3sSdENHUotISh5Z0djJKmh6CaNk8umOyCfbWTJZBVFW0Y0yul4i59gsgyMm8TElP8BxXBzXp1ZvIdi2hWE2ETfAnJaCN7BcXkfViuQLRfRihYJRpj8Y4XoBdrONXfOplGxUvYhWKFIwNhJVhL3FjA8//MyfH//it9//4PsPP/H3P/9y/813+O2YuDtgPJ2n2d8/pNMbMZ2vqJgmzaaLLMtsbW2xvb2Dmi8gTCcjLq/e8PjsnKOHJzx7fsHzFy95dPqEIOoRd/sEUZdKzWZ3vqTTHdAfTBhPdtMyXS+kFfToJXPCaIgwHg2o2R6inKdWb3CyfsJsvkfTD+kmQ7xWxGK5z3J1wOn6jDCIiRyLqGFTrTk03JCm18HzYoJwiHDx9CnNVpT2xQ+6RJ2EVtAhipPU0PXaTGaLFNpLhlSqNoosIUkimUwWRdq8JUqFPBXTRri7uWGxOqTtukz6CclwQicZMl2sGE93U6Cml1Pjhutj2R4NL8CyXcxanarVoFZ3aTRbafnC26srChWbrmNyPOvz6PEzDj874Op8zdHxKcPxLvO9FSfrMybTOX4rZpgkOF6HTn+XcsVCK5SQZJX53gHC3Ztr7IaHUa6iaAZ6yaRmVun7DlXLwXE9esmAdhBhOx5BEBJ6Fu1wSNCZkdeMdG1kJc9ktkR4f31DtW6j6wayrKCqWjr+rKwiKzkkWSGTEclkRbS8Tivq0wgTwjCm0xvgelHa183u+kEP4asXFwiCgCQp6SdRkpHlHDk1n0bJbfI/vFQyGQxmPFgscfyEZruPVXdTw5xaoBUmCNcvL1ELBnW7QaVqUbNsrLqDmtdTM1GUEeUcOxkxtRjHQ6Z2m954Tq8/wyialCoWxXKVIB4ifPz1F25fveL28ku+vbvjx/t77t+94/3r19y+/ZqT9Zpxv8vn6xO+OD/jwXyP1WhEzWnhtzvplPWimZ5nOx7wH08igoZF2el2AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;screen shot 2022 07 20 at 4 32 23 pm&quot;
+        title=&quot;screen shot 2022 07 20 at 4 32 23 pm&quot;
+        src=&quot;/static/1b4ea360be2a25af0c72eef8ae67563c/5a190/screen-shot-2022-07-20-at-4.32.23-pm.png&quot;
+        srcset=&quot;/static/1b4ea360be2a25af0c72eef8ae67563c/772e8/screen-shot-2022-07-20-at-4.32.23-pm.png 200w,
+/static/1b4ea360be2a25af0c72eef8ae67563c/e17e5/screen-shot-2022-07-20-at-4.32.23-pm.png 400w,
+/static/1b4ea360be2a25af0c72eef8ae67563c/5a190/screen-shot-2022-07-20-at-4.32.23-pm.png 800w,
+/static/1b4ea360be2a25af0c72eef8ae67563c/c1b63/screen-shot-2022-07-20-at-4.32.23-pm.png 1200w,
+/static/1b4ea360be2a25af0c72eef8ae67563c/ae28e/screen-shot-2022-07-20-at-4.32.23-pm.png 1598w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;d﻿eveloped step by step character creation tools and sheets.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Alone I Mourn the Loss of my Beloved]]></title><description><![CDATA[https://janiejaffe.itch.io/beloved]]></description><link>https://www.janiejaffe.com/alone-i-mourn-the-loss-of-my-beloved/</link><guid isPermaLink="false">https://www.janiejaffe.com/alone-i-mourn-the-loss-of-my-beloved/</guid><pubDate>Fri, 21 Oct 2022 20:37:20 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://janiejaffe.itch.io/beloved&quot;&gt;https://janiejaffe.itch.io/beloved&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Simulacrum]]></title><link>https://www.janiejaffe.com/simulacrum/</link><guid isPermaLink="false">https://www.janiejaffe.com/simulacrum/</guid><pubDate>Thu, 20 Oct 2022 18:53:10 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7767a309578fede99c15ea7e60773efa/ad68d/img_9278.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 124%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAIFBgME/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/9oADAMBAAIQAxAAAAHwSspLNnE09Og40RTA0//EAB0QAAICAQUAAAAAAAAAAAAAAAECAAQDEBESISL/2gAIAQEAAQUC8mPWIm0eupfInGN2y28ZmWwpXUz/xAAYEQACAwAAAAAAAAAAAAAAAAABEBITUv/aAAgBAwEBPwGeVUF//8QAFhEBAQEAAAAAAAAAAAAAAAAAEBES/9oACAECAQE/AYaP/8QAHRABAAEDBQAAAAAAAAAAAAAAAQACITEQEiAiQv/aAAgBAQAGPwJ8rOt9BjVm2IszHa8f/8QAGxAAAwEAAwEAAAAAAAAAAAAAAAERMSFBcRD/2gAIAQEAAT8hXacXlNjixjhx8MWRRPUhiIccaGkLSlZ9QjqOFnzs0f/aAAwDAQACAAMAAAAQAytz/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQARECFhkf/aAAgBAwEBPxBQivYXW53cf//EABgRAAMBAQAAAAAAAAAAAAAAAAABERAh/9oACAECAQE/EGk7lMh//8QAHRABAAMBAAIDAAAAAAAAAAAAAQARITFBYVGBkf/aAAgBAQABPxBpUhTaA7+x7o6Gp6iMKGIxg1Khl/MLj1GgPr1EqUXLuoMGzlxDSJWx8y+LqEOJ3n//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;img 9278&quot;
+        title=&quot;img 9278&quot;
+        src=&quot;/static/7767a309578fede99c15ea7e60773efa/4b190/img_9278.jpg&quot;
+        srcset=&quot;/static/7767a309578fede99c15ea7e60773efa/e07e9/img_9278.jpg 200w,
+/static/7767a309578fede99c15ea7e60773efa/066f9/img_9278.jpg 400w,
+/static/7767a309578fede99c15ea7e60773efa/4b190/img_9278.jpg 800w,
+/static/7767a309578fede99c15ea7e60773efa/ad68d/img_9278.jpg 1170w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[God Won't Let Me Die]]></title><link>https://www.janiejaffe.com/god-wont-let-me-die/</link><guid isPermaLink="false">https://www.janiejaffe.com/god-wont-let-me-die/</guid><pubDate>Mon, 15 Aug 2022 20:22:48 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3fce0f348aea7b6d7b399cc78371c32d/92345/screenshot-2024-09-17-at-4.21.45-pm.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 65.49999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAADG0lEQVQ4yyWS7U9TdxzF+77393ifeu9ti2LpKGHTsMEQOiAiMKGi4hwMCDhAmDphkVDaAQOHQLKMIGHsgb3QJfs/P0u7V+d8zzn55rw4qTmlWBaKRaFYEoqnTRQsCdnUG9qq1E38VkqeCsmikP/7spERTW9NKqaEILViDPtKc6U0NW040Zqq61E3hrrW1P0Mq7rBBTvGsOX7nCrNXiNnNNtewJZSrCvFkpSkJjzLodW8jGNm8tf4XSt+8gPqQcClEtTDkKVSB2eFdv70PE4KbfzW8QmnrUWOtKCaxBxEMQthxEyj4SPf47UfsOdZtqKYqyTh3Li8iWI+5K9x3lpk4/Myu/nrHIQZ1uOYg2yevSjHvtW8NbqZXQ5Dvm40nHcNj11LzQ/Y0JYfPipR6+pmKQjZaC3yvjzM2Z0RVgOfWd9jwVq2tGEzE7Pe4NaymMsyleSpWJfUlO8xbQ0vteK1UmxLxbMoZt5ovpOCzUzEyc1P2bjZxZTRzDV0Y5hXhudSsWg0a8ayEiX0SkHqiWf52XV5l4k48lz+DTPUfY9Lrdh2XQ6MZtM1LLseO8Zy4Rl+8QynocuV73KQzfGN57OTzVLr6yf10LVcaMVpNsdZroVLP6RaaOcva/nRupxbS9UL2DSNBRiufI/3nuUidPkQR9Tbiqx0dPL33VF+HRkn9cgaqkbxKhNSCwIugpB9P+DYao4bz7TijdY804pdpTkMAo58n1fW5zjwObxRYq5QonZ7kI3PeklNGs2MVjzQmgnrstzWzoukhQUpuJ8kzBbaqHV8zNqNAtN+wJhruZvJsNfVw9veMqf9A1RLnXx/q4vJW92kJrTioVJMK8W8I5jLX6eSbeGJcHgsFS+K7VzeLrPb3ceXrQXmSp0MRRHP24q8Kw9x0t3DH+UB/rkzymZ3D6kBpRhRioqUTAmHWWMYk4LxdJoxIRh1HMaVZlIohqXknuezEGeb/gPXY9JYvjKW2UzCdDZLqk8KhoSg33H4QjhUhMOE0owkOQaVYlA49AvBsJNmzHG456S5n04zJGTzrqTTjEpJJRNRSbL8BzJ6oIpPuv4WAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;screenshot 2024 09 17 at 4 21 45 pm&quot;
+        title=&quot;screenshot 2024 09 17 at 4 21 45 pm&quot;
+        src=&quot;/static/3fce0f348aea7b6d7b399cc78371c32d/5a190/screenshot-2024-09-17-at-4.21.45-pm.png&quot;
+        srcset=&quot;/static/3fce0f348aea7b6d7b399cc78371c32d/772e8/screenshot-2024-09-17-at-4.21.45-pm.png 200w,
+/static/3fce0f348aea7b6d7b399cc78371c32d/e17e5/screenshot-2024-09-17-at-4.21.45-pm.png 400w,
+/static/3fce0f348aea7b6d7b399cc78371c32d/5a190/screenshot-2024-09-17-at-4.21.45-pm.png 800w,
+/static/3fce0f348aea7b6d7b399cc78371c32d/c1b63/screenshot-2024-09-17-at-4.21.45-pm.png 1200w,
+/static/3fce0f348aea7b6d7b399cc78371c32d/29007/screenshot-2024-09-17-at-4.21.45-pm.png 1600w,
+/static/3fce0f348aea7b6d7b399cc78371c32d/92345/screenshot-2024-09-17-at-4.21.45-pm.png 2398w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9ddef092be9618c3da868ea8fe1eced8/12c06/screenshot-2024-09-17-at-4.22.15-pm.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 65.49999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAADr0lEQVQ4yx3IWUzTBwDA4f+yxYxDQMbVcpViQY6yMsC2Uo7aUmVQGDhABlJFBVGoUG5KW27waC2Wajks0+iYAwcPmsXNZOrMskW3ZW5xZsuyxIfNZPFhmdkeTPZb4tuXTzhY56a1+SIdh1foPrpGX8cG/cc3GOq6gbXnJrbeW4z132XK/j3j9kdMDn/DtP0+M44HnHA8eOlp2/2XPzL4AGGk81MmRn7g9Pgj5iae4J3+lXPOp/icfzLv+h3/2Wcsef7CffQS73fPctn3nMtLcPXCC1YvvODa8n9sXIJrS/+y5n+BMN57j+5GJ6PlOry2L3BPPsFtXWNh8h4+51P83udYTbOYgwOZzXyNlYFhLs7DBwtwdRlW/GCtGOJ4ajYTVcUINstdzLp6RlUBeAZXmOj6mNPvSPH3WDg/8xte1zNcLYus7ZaxcbyBZUs3PvffzLn/4dx7Zq72dDHwrh1LZggn6g0I9t7vGG4+zdk9Ck6O/cSIeR2PMQNf/yzOqT845XiMw/4Ln1uqeezzMzryM32lVuyZWs4rJWy0qVl13uaTRiX3Fq4jtNV6aVTspkW+lYFaC1bzdc41leBqdzFxyMPY4C1cLVN825TBj955rrgeMq7IZzFFxI19hSx0tmNWFdGXLaWjrBhBFxqPcdMWaoKiaM0Sc0RbRMd2BW3yPKyyCDz1lSw07+fmsZ3c9qzwtX+Nh+cX+fKEnVGNitaUVExJMRxUplGt0SDog2MoCxVRFi7GmJ6MMU5K1etRNMhEmPLzqNkSh0mciDlHyZDexMnCMq4Y9axbWph6ezfm9AQOpSTQnp9CU4kWIW+zmB2hYgpFIjTbUigJi8UYJqImQcyBnESqMhXsCoqhbFMUVa9u4UhUEI7CbczVlvBVTzWL7X00JMWxXxFLs16FoJIqyQ2MYEeMCGWyBEOsmErFVirUSkw6Dfv1Og5nJnHKkMSHLRVs7NNxx9bEZwN7uDN7Bm9bP63yJA4W5FBfXICQllJAxOZw3nwjhhxJPAWpUoxvSago1rNXu4vyPA26KBEdyZG4tXnMG0r5qCmf1c461h1mPAf2MV2hprPCQK1Wj5AYl0VAsIjEkChUEhEqZTnq1FS0GYlUq7NQp2cTGhROZGA0Za+EYwsIxF+awUpnG95jHThqK7HW7cWQlY48SYIQL84gMFhEdGg02eJIcrN3kpssQyOLpDwvDbksi8DgCILDosneHE1zSCRTRVJmjgxhrrfRa8hhoHIX22Vy4iPC+B+jpzIgRXI7dwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;screenshot 2024 09 17 at 4 22 15 pm&quot;
+        title=&quot;screenshot 2024 09 17 at 4 22 15 pm&quot;
+        src=&quot;/static/9ddef092be9618c3da868ea8fe1eced8/5a190/screenshot-2024-09-17-at-4.22.15-pm.png&quot;
+        srcset=&quot;/static/9ddef092be9618c3da868ea8fe1eced8/772e8/screenshot-2024-09-17-at-4.22.15-pm.png 200w,
+/static/9ddef092be9618c3da868ea8fe1eced8/e17e5/screenshot-2024-09-17-at-4.22.15-pm.png 400w,
+/static/9ddef092be9618c3da868ea8fe1eced8/5a190/screenshot-2024-09-17-at-4.22.15-pm.png 800w,
+/static/9ddef092be9618c3da868ea8fe1eced8/c1b63/screenshot-2024-09-17-at-4.22.15-pm.png 1200w,
+/static/9ddef092be9618c3da868ea8fe1eced8/29007/screenshot-2024-09-17-at-4.22.15-pm.png 1600w,
+/static/9ddef092be9618c3da868ea8fe1eced8/12c06/screenshot-2024-09-17-at-4.22.15-pm.png 2418w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Full Court]]></title><description><![CDATA[https://seaexcursion.itch.io/full-court]]></description><link>https://www.janiejaffe.com/full-court/</link><guid isPermaLink="false">https://www.janiejaffe.com/full-court/</guid><pubDate>Wed, 12 Jan 2022 21:43:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://seaexcursion.itch.io/full-court&quot;&gt;https://seaexcursion.itch.io/full-court&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Angel]]></title><description><![CDATA[https://janiejaffe.itch.io/the-angel-playbook]]></description><link>https://www.janiejaffe.com/the-angel/</link><guid isPermaLink="false">https://www.janiejaffe.com/the-angel/</guid><pubDate>Wed, 03 Feb 2021 21:47:39 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://janiejaffe.itch.io/the-angel-playbook&quot;&gt;https://janiejaffe.itch.io/the-angel-playbook&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Neuralwheel]]></title><description><![CDATA[https://janiejaffe.itch.io/neuralwheel]]></description><link>https://www.janiejaffe.com/neuralwheel/</link><guid isPermaLink="false">https://www.janiejaffe.com/neuralwheel/</guid><pubDate>Sat, 14 Dec 2019 21:45:29 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://janiejaffe.itch.io/neuralwheel&quot;&gt;https://janiejaffe.itch.io/neuralwheel&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Alone Together]]></title><description><![CDATA[https://janiejaffe.itch.io/alone-together]]></description><link>https://www.janiejaffe.com/alone-together/</link><guid isPermaLink="false">https://www.janiejaffe.com/alone-together/</guid><pubDate>Mon, 17 Jun 2019 20:39:55 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://janiejaffe.itch.io/alone-together&quot;&gt;https://janiejaffe.itch.io/alone-together&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mediums]]></title><description><![CDATA[https://janiejaffe.itch.io/mediums]]></description><link>https://www.janiejaffe.com/mediums/</link><guid isPermaLink="false">https://www.janiejaffe.com/mediums/</guid><pubDate>Sun, 05 May 2019 20:44:29 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://janiejaffe.itch.io/mediums&quot;&gt;https://janiejaffe.itch.io/mediums&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Routines]]></title><description><![CDATA[https://janiejaffe.itch.io/routines]]></description><link>https://www.janiejaffe.com/routines/</link><guid isPermaLink="false">https://www.janiejaffe.com/routines/</guid><pubDate>Thu, 31 Jan 2019 21:46:54 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://janiejaffe.itch.io/routines&quot;&gt;https://janiejaffe.itch.io/routines&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
