@@ -2,7 +2,7 @@ import * as React from "react"
 import { useStaticQuery, Link, graphql } from "gatsby"
 import classNames from "classnames"
 
-const PostList = ({ activeTags, setTags }) => {
+export const PostList = ({ activeTags, setTags }) => {
   const data = useStaticQuery(graphql`
     query PostListQuery {
       allMarkdownRemark(
@@ -78,5 +78,3 @@ const PostList = ({ activeTags, setTags }) => {
     </div>
   )
 }
-
-export default PostList

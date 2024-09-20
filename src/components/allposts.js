@@ -3,8 +3,9 @@ import { Link } from "gatsby"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import { Masonry } from "masonic"
 
-const AllPosts = ({ posts, tags }) => {
+export const AllPosts = ({ posts, tags }) => {
   const key = !!tags ? tags.reduce((t, n) => t + n, "") : "allposts"
+  if (typeof window === undefined || !Masonry) return null
   return (
     <Masonry
       key={key}
@@ -48,5 +49,3 @@ const PostDisplay = ({ index, data, width }) => {
     </article>
   )
 }
-
-export default AllPosts
