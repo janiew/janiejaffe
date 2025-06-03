@@ -6,6 +6,8 @@
   "author": "Janie Jaffe <janiejaffe0@gmail.com>",
   "homepage": "https://janiejaffe.com",
   "dependencies": {
+    "@fontsource/major-mono-display": "^5.2.5",
+    "@fontsource/roboto-mono": "^5.2.6",
     "classnames": "^2.5.1",
     "gatsby": "^4.4.0",
     "gatsby-image": "^3.11.0",

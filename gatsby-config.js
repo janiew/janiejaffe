@@ -3,7 +3,7 @@ module.exports = {
     title: `Janie Jaffe`,
     author: {
       name: `Janie Jaffe`,
-      summary: `is a game designer, developer, video artist, and angel. She lives in Brooklyn with a well worn pack of playing cards.`,
+      summary: `is a video artist, coder, and game designer. She lives in Brooklyn with a box of broken broadcast equipment.`,
     },
     description: `Portfolio website for Janie Jaffe.`,
     siteUrl: `https://www.janiejaffe.com/`,
