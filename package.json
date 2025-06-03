@@ -4,6 +4,7 @@
   "description": "Portfolio site for Janie Jaffe",
   "version": "0.1.0",
   "author": "Janie Jaffe <janiejaffe0@gmail.com>",
+  "homepage": "https://janiejaffe.com",
   "dependencies": {
     "classnames": "^2.5.1",
     "gatsby": "^4.4.0",
@@ -39,7 +40,6 @@
     "gh-pages": "^6.3.0",
     "prettier": "^2.5.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
     "gatsby"
   ],
