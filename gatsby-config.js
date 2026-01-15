@@ -8,7 +8,7 @@ module.exports = {
     description: `Portfolio website for Janie Jaffe.`,
     siteUrl: `https://www.janiejaffe.com/`,
     social: {
-      twitter: `janie_jaffe`,
+      bluesky: `angels.bsky.social`,
     },
   },
   plugins: [

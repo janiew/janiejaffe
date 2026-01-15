@@ -35,13 +35,13 @@ export const Layout = ({ location, title, children }) => {
               <li>·</li>
               <li>
                 <Link
-                  to="https://x.com/janie_jaffe"
+                  to="https://bsky.app/profile/angels.bsky.social"
                   className="header-nav-link"
                 >
                   <StaticImage
                     width={24}
-                    src="../images/twitter.svg"
-                    alt="twitter"
+                    src="../images/bluesky.svg"
+                    alt="bluesky"
                   />
                 </Link>
               </li>

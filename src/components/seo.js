@@ -19,7 +19,7 @@ export const Seo = ({ description, lang, meta, title }) => {
             title
             description
             social {
-              twitter
+              bluesky
             }
           }
         }
@@ -55,19 +55,19 @@ export const Seo = ({ description, lang, meta, title }) => {
           content: `website`,
         },
         {
-          name: `twitter:card`,
+          name: `bluesky:card`,
           content: `summary`,
         },
         {
-          name: `twitter:creator`,
-          content: site.siteMetadata?.social?.twitter || ``,
+          name: `bluesky:creator`,
+          content: site.siteMetadata?.social?.bluesky || ``,
         },
         {
-          name: `twitter:title`,
+          name: `bluesky:title`,
           content: title,
         },
         {
-          name: `twitter:description`,
+          name: `bluesky:description`,
           content: metaDescription,
         },
       ].concat(meta)}
