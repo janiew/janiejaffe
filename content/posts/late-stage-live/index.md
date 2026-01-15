@@ -1,8 +1,8 @@
 ---
-title: Late Stage Live
+title: Going Down with Ella Yurman
 tags:
   - video
-date: 2024-09-19T16:58:33.422Z
+date: 2025-12-01T17:58:33.422Z
 image: screenshot-2024-09-19-at-12.58.21-pm.png
 description: vfx for musical guests on news comedy show
 contenttype: post
