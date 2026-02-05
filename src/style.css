@@ -362,13 +362,14 @@ small {
 }
 
 .post-list-item:hover {
-  background-color: #101010;
+  /* background-color: #101010;
   transition: none;
-  color: white;
+  color: white; */
+  transform: scale(1.04);
 }
 
 .post-list-item:hover h2 {
-  color: white;
+  /* color: white; */
 }
 
 .postlist {
